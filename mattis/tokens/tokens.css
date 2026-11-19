@@ -1,0 +1,70 @@
+:root {
+  --color-1: rgb(255, 255, 255); /* used 727× */
+  --color-2: rgb(0, 0, 238); /* used 514× */
+  --color-3: rgba(255, 255, 255, 0.6); /* used 195× */
+  --color-4: rgb(11, 11, 11); /* used 193× */
+  --color-5: rgba(11, 11, 11, 0.6); /* used 55× */
+  --color-6: rgb(233, 233, 233); /* used 16× */
+  --color-7: rgb(14, 14, 14); /* used 16× */
+  --color-8: rgba(255, 255, 255, 0.7); /* used 14× */
+  --color-9: rgba(255, 255, 255, 0.4); /* used 14× */
+  --color-10: rgb(118, 118, 118); /* used 11× */
+  --color-11: rgb(255, 69, 0); /* used 10× */
+  --color-12: rgba(255, 255, 255, 0.5); /* used 10× */
+  --color-13: rgba(255, 255, 255, 0); /* used 8× */
+  --color-14: rgba(255, 255, 255, 0.1); /* used 5× */
+  --color-15: rgba(11, 11, 11, 0.12); /* used 4× */
+  --color-16: rgb(13, 13, 13); /* used 3× */
+  --color-17: rgb(0, 0, 0); /* used 3× */
+  --color-18: rgba(255, 255, 255, 0.3); /* used 2× */
+  --color-19: rgb(24, 24, 24); /* used 2× */
+  --color-20: rgb(18, 18, 18); /* used 2× */
+  --color-21: rgba(245, 245, 245, 0); /* used 2× */
+  --color-22: rgba(23, 23, 23, 0.89); /* used 1× */
+  --color-23: rgba(23, 23, 23, 0.8); /* used 1× */
+  --color-24: rgba(18, 18, 18, 0.3); /* used 1× */
+  --color-25: rgba(255, 255, 255, 0.18); /* used 1× */
+  --color-26: rgba(255, 255, 255, 0.03); /* used 1× */
+  --color-27: rgba(0, 0, 0, 0.05); /* used 1× */
+  --color-28: rgb(210, 255, 55); /* used 1× */
+  --color-29: rgb(34, 34, 34); /* used 1× */
+  --font-1: sans-serif; /* used 1391× */
+  --font-2: Geist, "Geist Placeholder", sans-serif; /* used 551× */
+  --font-3: Times; /* used 31× */
+  --text-1: 12px; /* used 1660× */
+  --text-2: 14px; /* used 55× */
+  --text-3: 92px; /* used 54× */
+  --text-4: 16px; /* used 51× */
+  --text-5: 11px; /* used 46× */
+  --text-6: 32px; /* used 33× */
+  --text-7: 20px; /* used 31× */
+  --text-8: 13px; /* used 17× */
+  --text-9: 58px; /* used 9× */
+  --text-10: 64px; /* used 8× */
+  --text-11: 18px; /* used 5× */
+  --text-12: 78px; /* used 3× */
+  --space-1: 10px; /* used 188× */
+  --space-2: 20px; /* used 68× */
+  --space-3: 30px; /* used 55× */
+  --space-4: 2px; /* used 43× */
+  --space-5: 5px; /* used 35× */
+  --space-6: 1px; /* used 32× */
+  --space-7: 16px; /* used 31× */
+  --space-8: 12px; /* used 14× */
+  --space-9: 4px; /* used 14× */
+  --space-10: 14px; /* used 13× */
+  --space-11: 0px 4px; /* used 11× */
+  --space-12: 26px; /* used 11× */
+  --space-13: 6px; /* used 10× */
+  --space-14: 9px; /* used 9× */
+  --space-15: 50px; /* used 9× */
+  --space-16: 22px; /* used 9× */
+  --radius-1: 50px;
+  --radius-2: 100%;
+  --radius-3: 10px;
+  --radius-4: 7px;
+  --radius-5: 11px;
+  --radius-6: 1px;
+  --shadow-1: rgb(0, 0, 0) 0px 0px 0px 1px inset;
+  --shadow-2: rgba(0, 0, 0, 0.17) 0px 0.602187px 1.56569px -1.5px, rgba(0, 0, 0, 0.14) 0px 2.28853px 5.95019px -3px, rgba(0, 0, 0, 0.02) 0px 10px 26px -4.5px;
+}

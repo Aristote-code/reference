@@ -1,0 +1,837 @@
+[
+  {
+    "fromSlug": "01-hero",
+    "fromName": "Hero",
+    "fromBg": "rgb(255, 255, 255)",
+    "toSlug": "02-about",
+    "toName": "About",
+    "toBg": "rgb(255, 69, 0)",
+    "scrollFrom": 200,
+    "scrollTo": 1600,
+    "bgCrossfade": {
+      "fromColor": "rgb(255, 255, 255)",
+      "toColor": "rgb(255, 69, 0)",
+      "crossfadeOver": 1400
+    },
+    "exiting": [
+      {
+        "framerName": "Container",
+        "tag": "div",
+        "text": "(Est. 2019 — Version 1.0.4)Mattis® studioWe align strategy, ",
+        "kind": [
+          "scroll-translated"
+        ],
+        "translateYStart": 0,
+        "translateYEnd": 138
+      },
+      {
+        "framerName": "BG",
+        "tag": "div",
+        "kind": [
+          "scroll-translated"
+        ],
+        "translateYStart": 0,
+        "translateYEnd": 270
+      }
+    ],
+    "entering": [
+      {
+        "framerName": "Media",
+        "tag": "div",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Image",
+        "tag": "div",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Media",
+        "tag": "div",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Media",
+        "tag": "div",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Image",
+        "tag": "div",
+        "kind": [
+          "parallax"
+        ]
+      }
+    ],
+    "bridging": [
+      {
+        "framerName": "Closed",
+        "tag": "div",
+        "text": "MenuHomeWorksAboutBlogContactContacthello@mattertudio.com+1 ",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Navigation Menu",
+        "tag": "div",
+        "text": "HomeWorksAboutBlogContact",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Desktop",
+        "tag": "a",
+        "text": "START A PROJECTSTART A PROJECT",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Closed",
+        "tag": "div",
+        "kind": [
+          "pinned"
+        ]
+      }
+    ],
+    "summary": "bg rgb(255, 255, 255) → rgb(255, 69, 0), 10 pinned/scrub bridge, 2 exiting, 5 entering"
+  },
+  {
+    "fromSlug": "02-about",
+    "fromName": "About",
+    "fromBg": "rgb(255, 69, 0)",
+    "toSlug": "03-showreel",
+    "toName": "Showreel",
+    "toBg": "rgb(233, 233, 233)",
+    "scrollFrom": 1052,
+    "scrollTo": 2452,
+    "bgCrossfade": {
+      "fromColor": "rgb(255, 69, 0)",
+      "toColor": "rgb(233, 233, 233)",
+      "crossfadeOver": 1400
+    },
+    "exiting": [
+      {
+        "framerName": "Media",
+        "tag": "div",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Image",
+        "tag": "div",
+        "kind": [
+          "parallax"
+        ]
+      }
+    ],
+    "entering": [
+      {
+        "framerName": "Media",
+        "tag": "div",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Media",
+        "tag": "div",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Image",
+        "tag": "div",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Container",
+        "tag": "div",
+        "text": "(Est. 2019 — Version 1.0.4)Mattis® studioWe align strategy, ",
+        "kind": [
+          "scroll-translated"
+        ],
+        "translateYStart": 0,
+        "translateYEnd": 138
+      },
+      {
+        "framerName": "BG",
+        "tag": "div",
+        "kind": [
+          "scroll-translated"
+        ],
+        "translateYStart": 0,
+        "translateYEnd": 270
+      }
+    ],
+    "bridging": [
+      {
+        "framerName": "Closed",
+        "tag": "div",
+        "text": "MenuHomeWorksAboutBlogContactContacthello@mattertudio.com+1 ",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Navigation Menu",
+        "tag": "div",
+        "text": "HomeWorksAboutBlogContact",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Desktop",
+        "tag": "a",
+        "text": "START A PROJECTSTART A PROJECT",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Closed",
+        "tag": "div",
+        "kind": [
+          "pinned"
+        ]
+      }
+    ],
+    "summary": "bg rgb(255, 69, 0) → rgb(233, 233, 233), 10 pinned/scrub bridge, 2 exiting, 5 entering"
+  },
+  {
+    "fromSlug": "03-showreel",
+    "fromName": "Showreel",
+    "fromBg": "rgb(233, 233, 233)",
+    "toSlug": "04-works",
+    "toName": "Works",
+    "toBg": "rgb(233, 233, 233)",
+    "scrollFrom": 1739,
+    "scrollTo": 3139,
+    "exiting": [
+      {
+        "framerName": "Media",
+        "tag": "div",
+        "kind": [
+          "parallax"
+        ]
+      }
+    ],
+    "entering": [
+      {
+        "framerName": "Media",
+        "tag": "div",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Image",
+        "tag": "div",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Media",
+        "tag": "div",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Image",
+        "tag": "div",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Container",
+        "tag": "div",
+        "text": "(Est. 2019 — Version 1.0.4)Mattis® studioWe align strategy, ",
+        "kind": [
+          "scroll-translated"
+        ],
+        "translateYStart": 0,
+        "translateYEnd": 138
+      },
+      {
+        "framerName": "BG",
+        "tag": "div",
+        "kind": [
+          "scroll-translated"
+        ],
+        "translateYStart": 0,
+        "translateYEnd": 270
+      }
+    ],
+    "bridging": [
+      {
+        "framerName": "Closed",
+        "tag": "div",
+        "text": "MenuHomeWorksAboutBlogContactContacthello@mattertudio.com+1 ",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Navigation Menu",
+        "tag": "div",
+        "text": "HomeWorksAboutBlogContact",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Desktop",
+        "tag": "a",
+        "text": "START A PROJECTSTART A PROJECT",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Closed",
+        "tag": "div",
+        "kind": [
+          "pinned"
+        ]
+      }
+    ],
+    "summary": "10 pinned/scrub bridge, 1 exiting, 6 entering"
+  },
+  {
+    "fromSlug": "04-works",
+    "fromName": "Works",
+    "fromBg": "rgb(233, 233, 233)",
+    "toSlug": "05-number",
+    "toName": "Number",
+    "toBg": "rgb(233, 233, 233)",
+    "scrollFrom": 4439,
+    "scrollTo": 5839,
+    "exiting": [
+      {
+        "framerName": "Media",
+        "tag": "div",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Image",
+        "tag": "div",
+        "kind": [
+          "parallax"
+        ]
+      }
+    ],
+    "entering": [
+      {
+        "framerName": "Media",
+        "tag": "div",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Image",
+        "tag": "div",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Media",
+        "tag": "div",
+        "kind": [
+          "parallax"
+        ]
+      }
+    ],
+    "bridging": [
+      {
+        "framerName": "Closed",
+        "tag": "div",
+        "text": "MenuHomeWorksAboutBlogContactContacthello@mattertudio.com+1 ",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Navigation Menu",
+        "tag": "div",
+        "text": "HomeWorksAboutBlogContact",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Desktop",
+        "tag": "a",
+        "text": "START A PROJECTSTART A PROJECT",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Closed",
+        "tag": "div",
+        "kind": [
+          "pinned"
+        ]
+      }
+    ],
+    "summary": "10 pinned/scrub bridge, 2 exiting, 3 entering"
+  },
+  {
+    "fromSlug": "05-number",
+    "fromName": "Number",
+    "fromBg": "rgb(233, 233, 233)",
+    "toSlug": "06-desktop",
+    "toName": "Desktop",
+    "toBg": "rgb(11, 11, 11)",
+    "scrollFrom": 5280,
+    "scrollTo": 6680,
+    "bgCrossfade": {
+      "fromColor": "rgb(233, 233, 233)",
+      "toColor": "rgb(11, 11, 11)",
+      "crossfadeOver": 1400
+    },
+    "exiting": [],
+    "entering": [
+      {
+        "framerName": "Media",
+        "tag": "div",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Media",
+        "tag": "div",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Image",
+        "tag": "div",
+        "kind": [
+          "parallax"
+        ]
+      }
+    ],
+    "bridging": [
+      {
+        "framerName": "Closed",
+        "tag": "div",
+        "text": "MenuHomeWorksAboutBlogContactContacthello@mattertudio.com+1 ",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Navigation Menu",
+        "tag": "div",
+        "text": "HomeWorksAboutBlogContact",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Desktop",
+        "tag": "a",
+        "text": "START A PROJECTSTART A PROJECT",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Closed",
+        "tag": "div",
+        "kind": [
+          "pinned"
+        ]
+      }
+    ],
+    "summary": "bg rgb(233, 233, 233) → rgb(11, 11, 11), 10 pinned/scrub bridge, 3 entering"
+  },
+  {
+    "fromSlug": "06-desktop",
+    "fromName": "Desktop",
+    "fromBg": "rgb(11, 11, 11)",
+    "toSlug": "07-numbers",
+    "toName": "Numbers",
+    "toBg": "rgb(255, 69, 0)",
+    "scrollFrom": 6559,
+    "scrollTo": 7959,
+    "bgCrossfade": {
+      "fromColor": "rgb(11, 11, 11)",
+      "toColor": "rgb(255, 69, 0)",
+      "crossfadeOver": 1400
+    },
+    "exiting": [],
+    "entering": [],
+    "bridging": [
+      {
+        "framerName": "Closed",
+        "tag": "div",
+        "text": "MenuHomeWorksAboutBlogContactContacthello@mattertudio.com+1 ",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Navigation Menu",
+        "tag": "div",
+        "text": "HomeWorksAboutBlogContact",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Desktop",
+        "tag": "a",
+        "text": "START A PROJECTSTART A PROJECT",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Closed",
+        "tag": "div",
+        "kind": [
+          "pinned"
+        ]
+      }
+    ],
+    "summary": "bg rgb(11, 11, 11) → rgb(255, 69, 0), 10 pinned/scrub bridge"
+  },
+  {
+    "fromSlug": "07-numbers",
+    "fromName": "Numbers",
+    "fromBg": "rgb(255, 69, 0)",
+    "toSlug": "08-desktop",
+    "toName": "Desktop",
+    "toBg": "rgb(233, 233, 233)",
+    "scrollFrom": 7382,
+    "scrollTo": 8782,
+    "bgCrossfade": {
+      "fromColor": "rgb(255, 69, 0)",
+      "toColor": "rgb(233, 233, 233)",
+      "crossfadeOver": 1400
+    },
+    "exiting": [],
+    "entering": [],
+    "bridging": [
+      {
+        "framerName": "Closed",
+        "tag": "div",
+        "text": "MenuHomeWorksAboutBlogContactContacthello@mattertudio.com+1 ",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Navigation Menu",
+        "tag": "div",
+        "text": "HomeWorksAboutBlogContact",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Desktop",
+        "tag": "a",
+        "text": "START A PROJECTSTART A PROJECT",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Closed",
+        "tag": "div",
+        "kind": [
+          "pinned"
+        ]
+      }
+    ],
+    "summary": "bg rgb(255, 69, 0) → rgb(233, 233, 233), 10 pinned/scrub bridge"
+  },
+  {
+    "fromSlug": "08-desktop",
+    "fromName": "Desktop",
+    "fromBg": "rgb(233, 233, 233)",
+    "toSlug": "09-quote-pricing",
+    "toName": "Quote + Pricing",
+    "toBg": "rgb(11, 11, 11)",
+    "scrollFrom": 8118,
+    "scrollTo": 9518,
+    "bgCrossfade": {
+      "fromColor": "rgb(233, 233, 233)",
+      "toColor": "rgb(11, 11, 11)",
+      "crossfadeOver": 1400
+    },
+    "exiting": [],
+    "entering": [
+      {
+        "framerName": "User Image",
+        "tag": "div",
+        "text": "Jennifer Peterson",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Desktop",
+        "tag": "button",
+        "text": "Send messageSend message",
+        "kind": [
+          "parallax"
+        ]
+      }
+    ],
+    "bridging": [
+      {
+        "framerName": "Closed",
+        "tag": "div",
+        "text": "MenuHomeWorksAboutBlogContactContacthello@mattertudio.com+1 ",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Navigation Menu",
+        "tag": "div",
+        "text": "HomeWorksAboutBlogContact",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Desktop",
+        "tag": "a",
+        "text": "START A PROJECTSTART A PROJECT",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Closed",
+        "tag": "div",
+        "kind": [
+          "pinned"
+        ]
+      }
+    ],
+    "summary": "bg rgb(233, 233, 233) → rgb(11, 11, 11), 10 pinned/scrub bridge, 2 entering"
+  },
+  {
+    "fromSlug": "09-quote-pricing",
+    "fromName": "Quote + Pricing",
+    "fromBg": "rgb(11, 11, 11)",
+    "toSlug": "10-desktop",
+    "toName": "Desktop",
+    "toBg": "rgb(233, 233, 233)",
+    "scrollFrom": 9659,
+    "scrollTo": 11059,
+    "bgCrossfade": {
+      "fromColor": "rgb(11, 11, 11)",
+      "toColor": "rgb(233, 233, 233)",
+      "crossfadeOver": 1400
+    },
+    "exiting": [],
+    "entering": [
+      {
+        "framerName": "User Image",
+        "tag": "div",
+        "text": "Jennifer Peterson",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Darken",
+        "tag": "div",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Quote",
+        "tag": "div",
+        "text": "I'll personally review your brief and get back to you within",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Contact Info",
+        "tag": "div",
+        "text": "Contact+1 (555) 400 0123hello@mattistudio.comWe usually resp",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Contact Details",
+        "tag": "div",
+        "text": "Contact+1 (555) 400 0123hello@mattistudio.com",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Contact Info",
+        "tag": "div",
+        "text": "+1 (555) 400 0123hello@mattistudio.com",
+        "kind": [
+          "parallax"
+        ]
+      }
+    ],
+    "bridging": [
+      {
+        "framerName": "Closed",
+        "tag": "div",
+        "text": "MenuHomeWorksAboutBlogContactContacthello@mattertudio.com+1 ",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Navigation Menu",
+        "tag": "div",
+        "text": "HomeWorksAboutBlogContact",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Desktop",
+        "tag": "a",
+        "text": "START A PROJECTSTART A PROJECT",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Closed",
+        "tag": "div",
+        "kind": [
+          "pinned"
+        ]
+      }
+    ],
+    "summary": "bg rgb(11, 11, 11) → rgb(233, 233, 233), 10 pinned/scrub bridge, 12 entering"
+  },
+  {
+    "fromSlug": "10-desktop",
+    "fromName": "Desktop",
+    "fromBg": "rgb(233, 233, 233)",
+    "toSlug": "11-articles",
+    "toName": "Articles",
+    "toBg": "rgb(233, 233, 233)",
+    "scrollFrom": 10773,
+    "scrollTo": 12173,
+    "exiting": [],
+    "entering": [
+      {
+        "framerName": "User Image",
+        "tag": "div",
+        "text": "Jennifer Peterson",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Darken",
+        "tag": "div",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Quote",
+        "tag": "div",
+        "text": "I'll personally review your brief and get back to you within",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Contact Info",
+        "tag": "div",
+        "text": "Contact+1 (555) 400 0123hello@mattistudio.comWe usually resp",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Contact Details",
+        "tag": "div",
+        "text": "Contact+1 (555) 400 0123hello@mattistudio.com",
+        "kind": [
+          "parallax"
+        ]
+      },
+      {
+        "framerName": "Contact Info",
+        "tag": "div",
+        "text": "+1 (555) 400 0123hello@mattistudio.com",
+        "kind": [
+          "parallax"
+        ]
+      }
+    ],
+    "bridging": [
+      {
+        "framerName": "Closed",
+        "tag": "div",
+        "text": "MenuHomeWorksAboutBlogContactContacthello@mattertudio.com+1 ",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Navigation Menu",
+        "tag": "div",
+        "text": "HomeWorksAboutBlogContact",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Desktop",
+        "tag": "a",
+        "text": "START A PROJECTSTART A PROJECT",
+        "kind": [
+          "pinned"
+        ]
+      },
+      {
+        "framerName": "Closed",
+        "tag": "div",
+        "kind": [
+          "pinned"
+        ]
+      }
+    ],
+    "summary": "10 pinned/scrub bridge, 12 entering"
+  }
+]

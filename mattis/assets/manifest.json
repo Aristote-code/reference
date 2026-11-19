@@ -1,0 +1,388 @@
+[
+  {
+    "originalUrl": "https://framerusercontent.com/images/rR6HYXBrMmX4cRpXfXUOvpvpB0.png",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/1dae10b6-rR6HYXBrMmX4cRpXfXUOvpvpB0.png",
+    "type": "image",
+    "bytes": 22927,
+    "mime": "image/png",
+    "format": "png",
+    "ok": true,
+    "usedIn": [
+      "01-hero",
+      "02-about",
+      "04-works",
+      "06-desktop",
+      "09-quote-pricing",
+      "10-desktop",
+      "11-articles"
+    ]
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/dvRbwMeyo4vxcTj90QvjS6MdQ.jpg?width=400&height=400",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/58fe4b14-dvRbwMeyo4vxcTj90QvjS6MdQ.avif",
+    "type": "image",
+    "bytes": 20310,
+    "mime": "image/avif",
+    "format": "avif",
+    "ok": true,
+    "usedIn": [
+      "01-hero"
+    ]
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/V4ZkWaLPRZ6Dp0De8M0jUyQIc.jpg?width=720&height=422",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/fb56afed-V4ZkWaLPRZ6Dp0De8M0jUyQIc.avif",
+    "type": "image",
+    "bytes": 3604,
+    "mime": "image/avif",
+    "format": "avif",
+    "ok": true,
+    "usedIn": [
+      "06-desktop"
+    ]
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/ROGfhegDuACLsAjwXl6Yy1kaYzM.jpg?width=756&height=480",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/0b2d0529-ROGfhegDuACLsAjwXl6Yy1kaYzM.avif",
+    "type": "image",
+    "bytes": 6463,
+    "mime": "image/avif",
+    "format": "avif",
+    "ok": true,
+    "usedIn": [
+      "03-showreel"
+    ]
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/eFCg3n7XxnLCImN4MelOsAGvIUY.jpg?width=569&height=885",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/a2ee9050-eFCg3n7XxnLCImN4MelOsAGvIUY.avif",
+    "type": "image",
+    "bytes": 24087,
+    "mime": "image/avif",
+    "format": "avif",
+    "ok": true,
+    "usedIn": [
+      "02-about"
+    ]
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/R8DWarznw4xTxUguf9qS1vaU0A.jpg?width=1137&height=660",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/11ac623b-R8DWarznw4xTxUguf9qS1vaU0A.avif",
+    "type": "image",
+    "bytes": 58909,
+    "mime": "image/avif",
+    "format": "avif",
+    "ok": true,
+    "usedIn": [
+      "06-desktop"
+    ]
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/iKu3BZinxyUoaGwZRZSSbtwnugk.jpg?width=1137&height=660",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/ef8482fe-iKu3BZinxyUoaGwZRZSSbtwnugk.avif",
+    "type": "image",
+    "bytes": 144441,
+    "mime": "image/avif",
+    "format": "avif",
+    "ok": true,
+    "usedIn": [
+      "06-desktop"
+    ]
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/lcNzeG9RhgOhjPwtCyEu0UULtC0.jpg?width=1137&height=660",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/318c972b-lcNzeG9RhgOhjPwtCyEu0UULtC0.avif",
+    "type": "image",
+    "bytes": 10857,
+    "mime": "image/avif",
+    "format": "avif",
+    "ok": true,
+    "usedIn": [
+      "06-desktop"
+    ]
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/uUK7snanCm0W5wfsCQFrajzteoY.jpg?width=1137&height=660",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/24eeb999-uUK7snanCm0W5wfsCQFrajzteoY.avif",
+    "type": "image",
+    "bytes": 20384,
+    "mime": "image/avif",
+    "format": "avif",
+    "ok": true,
+    "usedIn": [
+      "06-desktop"
+    ]
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/EuqaphdDOC0io6InAxnBopy5CXA.svg?width=512&height=463",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/6310ee23-EuqaphdDOC0io6InAxnBopy5CXA.svg",
+    "type": "image",
+    "bytes": 423,
+    "mime": "image/svg+xml",
+    "format": "svg",
+    "ok": true,
+    "usedIn": []
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/XmI8WHwK9M2ZkuwdinbJ65GzYxE.svg?width=670&height=668",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/f128481c-XmI8WHwK9M2ZkuwdinbJ65GzYxE.svg",
+    "type": "image",
+    "bytes": 601,
+    "mime": "image/svg+xml",
+    "format": "svg",
+    "ok": true,
+    "usedIn": []
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/wNbZWueuAOg7UiNoZ4fa7vIiLk.jpg?width=1920&height=1346",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/fdf1293b-wNbZWueuAOg7UiNoZ4fa7vIiLk.avif",
+    "type": "image",
+    "bytes": 2641,
+    "mime": "image/avif",
+    "format": "avif",
+    "ok": true,
+    "usedIn": []
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/5uEQU4887j2v5TvWHVgPkTd8s.jpg?width=100&height=76",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/3f0ef4de-5uEQU4887j2v5TvWHVgPkTd8s.avif",
+    "type": "image",
+    "bytes": 2248,
+    "mime": "image/avif",
+    "format": "avif",
+    "ok": true,
+    "usedIn": []
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/ncY5akdtmiquhkDxINCBcqKRm8.jpg?width=270&height=341",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/5f4227b1-ncY5akdtmiquhkDxINCBcqKRm8.avif",
+    "type": "image",
+    "bytes": 13745,
+    "mime": "image/avif",
+    "format": "avif",
+    "ok": true,
+    "usedIn": [
+      "09-quote-pricing"
+    ]
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/mORiocPNTtVLJZs2cAljPc1iMeE.jpg?width=987&height=987",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/b0c2360d-mORiocPNTtVLJZs2cAljPc1iMeE.avif",
+    "type": "image",
+    "bytes": 61401,
+    "mime": "image/avif",
+    "format": "avif",
+    "ok": true,
+    "usedIn": [
+      "10-desktop"
+    ]
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/kM932F9EcDwrzgr753VM8bb6pIg.jpg?width=1802&height=2725",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/66beabc8-kM932F9EcDwrzgr753VM8bb6pIg.avif",
+    "type": "image",
+    "bytes": 83546,
+    "mime": "image/avif",
+    "format": "avif",
+    "ok": true,
+    "usedIn": [
+      "11-articles"
+    ]
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/LPSVulPRLpcRP2J08Ln0raAcQ.jpg?width=1180&height=1519",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/19eb4c1f-LPSVulPRLpcRP2J08Ln0raAcQ.avif",
+    "type": "image",
+    "bytes": 300705,
+    "mime": "image/avif",
+    "format": "avif",
+    "ok": true,
+    "usedIn": [
+      "11-articles"
+    ]
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/MF8lvEusopYl3xxox4RCKrziJ0c.jpg?width=1920&height=1697",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/8d6bd7ab-MF8lvEusopYl3xxox4RCKrziJ0c.avif",
+    "type": "image",
+    "bytes": 40093,
+    "mime": "image/avif",
+    "format": "avif",
+    "ok": true,
+    "usedIn": [
+      "11-articles"
+    ]
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/qWv5OBNRreRPv9FqvBaNWdZK4.jpg?width=564&height=375",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/e24fd5d3-qWv5OBNRreRPv9FqvBaNWdZK4.avif",
+    "type": "image",
+    "bytes": 20286,
+    "mime": "image/avif",
+    "format": "avif",
+    "ok": true,
+    "usedIn": []
+  },
+  {
+    "originalUrl": "https://fonts.gstatic.com/s/geist/v5/gyByhwUxId8gMEwcGFU.woff2",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/fonts/e09adcd0-gyByhwUxId8gMEwcGFU.woff2",
+    "type": "font",
+    "bytes": 29400,
+    "mime": "font/woff2",
+    "format": "woff2",
+    "ok": true,
+    "usedIn": []
+  },
+  {
+    "originalUrl": "https://fonts.gstatic.com/s/geist/v4/gyBhhwUxId8gMGYQMKR3pzfaWI_RruM4mJPby1QNtA.woff2",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/fonts/19ad5411-gyBhhwUxId8gMGYQMKR3pzfaWI_RruM4mJPby1QNtA.woff2",
+    "type": "font",
+    "bytes": 30364,
+    "mime": "font/woff2",
+    "format": "woff2",
+    "ok": true,
+    "usedIn": []
+  },
+  {
+    "originalUrl": "https://fonts.gstatic.com/s/geist/v4/gyBhhwUxId8gMGYQMKR3pzfaWI_Re-Q4mJPby1QNtA.woff2",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/fonts/c1ac82f8-gyBhhwUxId8gMGYQMKR3pzfaWI_Re-Q4mJPby1QNtA.woff2",
+    "type": "font",
+    "bytes": 30440,
+    "mime": "font/woff2",
+    "format": "woff2",
+    "ok": true,
+    "usedIn": []
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/d4AQQL87EV2YaJY1jf32kkdOPZE.png",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/dbc6e5b5-d4AQQL87EV2YaJY1jf32kkdOPZE.png",
+    "type": "image",
+    "bytes": 2179,
+    "mime": "image/png",
+    "format": "png",
+    "ok": true,
+    "usedIn": []
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/assets/YUc1UMqfu6cFqEbpKpI1dpKqoes.mp4",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/videos/91bd8e31-YUc1UMqfu6cFqEbpKpI1dpKqoes.mp4",
+    "type": "video",
+    "bytes": 671882,
+    "mime": "video/mp4",
+    "format": "mp4",
+    "ok": true,
+    "usedIn": [
+      "01-hero"
+    ]
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/RFACYseyJUnIgKpC8Ji85GEz4.jpg?width=2000&height=1280",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/dd8ffccf-RFACYseyJUnIgKpC8Ji85GEz4.avif",
+    "type": "image",
+    "bytes": 146465,
+    "mime": "image/avif",
+    "format": "avif",
+    "ok": true,
+    "usedIn": [
+      "04-works"
+    ]
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/qtQPMLsOZSfMrr1H8paEqfCmqjQ.jpeg?scale-down-to=2048&width=2752&height=1536",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/73100a27-qtQPMLsOZSfMrr1H8paEqfCmqjQ.avif",
+    "type": "image",
+    "bytes": 106911,
+    "mime": "image/avif",
+    "format": "avif",
+    "ok": true,
+    "usedIn": [
+      "04-works"
+    ]
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/assets/Upkc3M9FymIbhcQFUfu8txagv8.mp4",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/videos/20c46ead-Upkc3M9FymIbhcQFUfu8txagv8.mp4",
+    "type": "video",
+    "bytes": 764801,
+    "mime": "video/mp4",
+    "format": "mp4",
+    "ok": true,
+    "usedIn": []
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/zEI0hdyA7XwBgF3OgjoRGPVMk.jpg?width=397&height=400",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/33e981b7-zEI0hdyA7XwBgF3OgjoRGPVMk.avif",
+    "type": "image",
+    "bytes": 17399,
+    "mime": "image/avif",
+    "format": "avif",
+    "ok": true,
+    "usedIn": [
+      "05-number"
+    ]
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/wlJMtkRVckBTirLzGQd8qmCMDw.jpg?width=83&height=83",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/7b2435d0-wlJMtkRVckBTirLzGQd8qmCMDw.avif",
+    "type": "image",
+    "bytes": 3847,
+    "mime": "image/avif",
+    "format": "avif",
+    "ok": true,
+    "usedIn": [
+      "07-numbers"
+    ]
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/MF8lvEusopYl3xxox4RCKrziJ0c.jpg?scale-down-to=512&width=1920&height=1697",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/2bdfc5dd-MF8lvEusopYl3xxox4RCKrziJ0c.avif",
+    "type": "image",
+    "bytes": 11819,
+    "mime": "image/avif",
+    "format": "avif",
+    "ok": true,
+    "usedIn": []
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/kM932F9EcDwrzgr753VM8bb6pIg.jpg?scale-down-to=1024&width=1802&height=2725",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/72d8ce72-kM932F9EcDwrzgr753VM8bb6pIg.avif",
+    "type": "image",
+    "bytes": 29074,
+    "mime": "image/avif",
+    "format": "avif",
+    "ok": true,
+    "usedIn": []
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/4eISosOoYjMJ3exo170tf63A0Z4.jpg?scale-down-to=512&width=1920&height=1613",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/471c2432-4eISosOoYjMJ3exo170tf63A0Z4.avif",
+    "type": "image",
+    "bytes": 35429,
+    "mime": "image/avif",
+    "format": "avif",
+    "ok": true,
+    "usedIn": [
+      "11-articles"
+    ]
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/LPSVulPRLpcRP2J08Ln0raAcQ.jpg?scale-down-to=1024&width=1180&height=1519",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/05f40dd0-LPSVulPRLpcRP2J08Ln0raAcQ.avif",
+    "type": "image",
+    "bytes": 224153,
+    "mime": "image/avif",
+    "format": "avif",
+    "ok": true,
+    "usedIn": []
+  },
+  {
+    "originalUrl": "https://framerusercontent.com/images/nr593SABZlC19HZOrgnV0sWc8A.jpg?width=73&height=73",
+    "localPath": "/Users/ariga/MATTIS/reference/mattis/assets/images/b41673ca-nr593SABZlC19HZOrgnV0sWc8A.avif",
+    "type": "image",
+    "bytes": 3082,
+    "mime": "image/avif",
+    "format": "avif",
+    "ok": true,
+    "usedIn": []
+  }
+]

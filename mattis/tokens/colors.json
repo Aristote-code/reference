@@ -1,0 +1,147 @@
+[
+  {
+    "name": "color-1",
+    "value": "rgb(255, 255, 255)",
+    "usage": 727
+  },
+  {
+    "name": "color-2",
+    "value": "rgb(0, 0, 238)",
+    "usage": 514
+  },
+  {
+    "name": "color-3",
+    "value": "rgba(255, 255, 255, 0.6)",
+    "usage": 195
+  },
+  {
+    "name": "color-4",
+    "value": "rgb(11, 11, 11)",
+    "usage": 193
+  },
+  {
+    "name": "color-5",
+    "value": "rgba(11, 11, 11, 0.6)",
+    "usage": 55
+  },
+  {
+    "name": "color-6",
+    "value": "rgb(233, 233, 233)",
+    "usage": 16
+  },
+  {
+    "name": "color-7",
+    "value": "rgb(14, 14, 14)",
+    "usage": 16
+  },
+  {
+    "name": "color-8",
+    "value": "rgba(255, 255, 255, 0.7)",
+    "usage": 14
+  },
+  {
+    "name": "color-9",
+    "value": "rgba(255, 255, 255, 0.4)",
+    "usage": 14
+  },
+  {
+    "name": "color-10",
+    "value": "rgb(118, 118, 118)",
+    "usage": 11
+  },
+  {
+    "name": "color-11",
+    "value": "rgb(255, 69, 0)",
+    "usage": 10
+  },
+  {
+    "name": "color-12",
+    "value": "rgba(255, 255, 255, 0.5)",
+    "usage": 10
+  },
+  {
+    "name": "color-13",
+    "value": "rgba(255, 255, 255, 0)",
+    "usage": 8
+  },
+  {
+    "name": "color-14",
+    "value": "rgba(255, 255, 255, 0.1)",
+    "usage": 5
+  },
+  {
+    "name": "color-15",
+    "value": "rgba(11, 11, 11, 0.12)",
+    "usage": 4
+  },
+  {
+    "name": "color-16",
+    "value": "rgb(13, 13, 13)",
+    "usage": 3
+  },
+  {
+    "name": "color-17",
+    "value": "rgb(0, 0, 0)",
+    "usage": 3
+  },
+  {
+    "name": "color-18",
+    "value": "rgba(255, 255, 255, 0.3)",
+    "usage": 2
+  },
+  {
+    "name": "color-19",
+    "value": "rgb(24, 24, 24)",
+    "usage": 2
+  },
+  {
+    "name": "color-20",
+    "value": "rgb(18, 18, 18)",
+    "usage": 2
+  },
+  {
+    "name": "color-21",
+    "value": "rgba(245, 245, 245, 0)",
+    "usage": 2
+  },
+  {
+    "name": "color-22",
+    "value": "rgba(23, 23, 23, 0.89)",
+    "usage": 1
+  },
+  {
+    "name": "color-23",
+    "value": "rgba(23, 23, 23, 0.8)",
+    "usage": 1
+  },
+  {
+    "name": "color-24",
+    "value": "rgba(18, 18, 18, 0.3)",
+    "usage": 1
+  },
+  {
+    "name": "color-25",
+    "value": "rgba(255, 255, 255, 0.18)",
+    "usage": 1
+  },
+  {
+    "name": "color-26",
+    "value": "rgba(255, 255, 255, 0.03)",
+    "usage": 1
+  },
+  {
+    "name": "color-27",
+    "value": "rgba(0, 0, 0, 0.05)",
+    "usage": 1
+  },
+  {
+    "name": "color-28",
+    "value": "rgb(210, 255, 55)",
+    "usage": 1
+  },
+  {
+    "name": "color-29",
+    "value": "rgb(34, 34, 34)",
+    "usage": 1
+  }
+]

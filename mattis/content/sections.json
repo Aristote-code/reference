@@ -1,0 +1,3425 @@
+[
+  {
+    "index": 1,
+    "slug": "01-hero",
+    "selector": "section.framer-lotasx",
+    "bbox": {
+      "x": 0,
+      "y": 0,
+      "width": 1425,
+      "height": 900
+    },
+    "framer": {
+      "name": "Hero",
+      "attrs": {
+        "data-framer-name": "Hero"
+      }
+    },
+    "text": {
+      "headings": [],
+      "paragraphs": [
+        {
+          "text": "(Est. 2019 — Version 1.0.4)",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-11kvajf"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "500",
+            "lineHeight": "13.2px",
+            "letterSpacing": "-0.11px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Mattis",
+          "classes": [
+            "framer-text"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "140.498px",
+            "fontWeight": "600",
+            "lineHeight": "115.208px",
+            "letterSpacing": "-7.02489px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "studio",
+          "classes": [
+            "framer-text"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "34px",
+            "fontWeight": "600",
+            "lineHeight": "30.6px",
+            "letterSpacing": "-2.04px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "We align strategy, design, and engineering into a single high-performance loop. Your vision, executed with surgical precision and conversion-first logic.",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Anna Schneider",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-1hgnchr"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "500",
+            "lineHeight": "15.6px",
+            "letterSpacing": "-0.13px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "CEO",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-18rrjz2"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "500",
+            "lineHeight": "13.2px",
+            "letterSpacing": "-0.11px",
+            "color": "rgba(255, 255, 255, 0.6)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "design",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-1jnz3v9"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "600",
+            "lineHeight": "13.12px",
+            "letterSpacing": "-0.32px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "development",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-1jnz3v9"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "600",
+            "lineHeight": "13.12px",
+            "letterSpacing": "-0.32px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Marketing",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-1jnz3v9"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "600",
+            "lineHeight": "13.12px",
+            "letterSpacing": "-0.32px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "SLOTS FOR APR:",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "2 LEFT",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        }
+      ],
+      "buttons": [],
+      "links": [],
+      "labels": [
+        "We",
+        "align",
+        "strategy,",
+        "design,",
+        "and",
+        "engineering",
+        "into",
+        "single",
+        "high-performance loop",
+        "high-performance",
+        "loop",
+        "Your",
+        "vision,",
+        "executed",
+        "with",
+        "surgical",
+        "precision",
+        "conversion-first",
+        "logic.",
+        "SLOTS FOR"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://framerusercontent.com/images/dvRbwMeyo4vxcTj90QvjS6MdQ.jpg?width=400&height=400",
+        "alt": "",
+        "bbox": {
+          "x": 40,
+          "y": 390,
+          "width": 40,
+          "height": 40
+        },
+        "role": "small",
+        "loading": "auto",
+        "decoding": "auto"
+      }
+    ],
+    "videos": [
+      {
+        "src": "https://framerusercontent.com/assets/YUc1UMqfu6cFqEbpKpI1dpKqoes.mp4",
+        "poster": "",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 375,
+          "height": 710
+        },
+        "autoplay": true,
+        "loop": true,
+        "muted": true,
+        "playsInline": true,
+        "duration": 10.041667
+      }
+    ],
+    "backgrounds": [
+      {
+        "selector": "div.",
+        "url": "https://framerusercontent.com/images/rR6HYXBrMmX4cRpXfXUOvpvpB0.png"
+      }
+    ],
+    "svgs": [
+      {
+        "outerHTML": "<svg class=\"framer-1lrracs\" data-framer-appear-id=\"1lrracs\" data-framer-name=\"Matter\" data-framer-component-type=\"RichTextContainer\" viewBox=\"0 0 471.02489232989984 115\" style=\"opacity: 1; transform: none; will-change: transform;\" data-cs-id=\"123\"><foreignObject width=\"100%\" height=\"100%\" class=\"framer-fit-text\" transform=\"scale(1)\" style=\"overflow:visible;transform-origin:center center\" data-cs-id=\"124\"><p dir=\"auto\" style=\"--font-selector:R0Y7R2Vpc3QtNjAw;--framer-font-family:&quot;Geist&quot;, &quot;Geist Placeholder&quot;, sans-serif;--framer-font-size:140.4978465979963px;--framer-font-weight:600;--framer-letter-spacing:-0.05em;--framer-line-height:82%;--framer-text-color:var(--token-8bc48ec1-e739-449f-9808-c21f0169d1a2, rgb(255, 255, 255));--framer-text-transform:uppercase\" class=\"framer-text\" data-cs-id=\"125\">Mattis</p></foreignObject></svg>"
+      },
+      {
+        "outerHTML": "<svg style=\"width:100%;height:100%;\" preserveAspectRatio=\"none\" width=\"100%\" height=\"100%\"><use href=\"#svg-1731655350_11847\"></use></svg>"
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "slug": "02-about",
+    "selector": "section.framer-zwvlfw",
+    "bbox": {
+      "x": 0,
+      "y": 900,
+      "width": 1425,
+      "height": 852
+    },
+    "framer": {
+      "name": "About",
+      "attrs": {
+        "data-framer-appear-id": "zwvlfw",
+        "data-framer-name": "About"
+      }
+    },
+    "text": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "Strategybeforepixels.",
+          "classes": [],
+          "bbox": {
+            "x": 20,
+            "y": 744,
+            "width": 335,
+            "height": 128
+          },
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "52px",
+            "fontWeight": "600",
+            "lineHeight": "42.64px",
+            "letterSpacing": "-2.6px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "text": "Launched",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "24+ projects",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "2019-26©",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "People decide if they trust your site before they read a word on it. That's not a metaphor. Visual credibility forms almost instantly, and it's shaped by spacing, typography, image quality, and structure.",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgba(255, 255, 255, 0.7)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "About us",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-1hgnchr"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "500",
+            "lineHeight": "15.6px",
+            "letterSpacing": "-0.13px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "About us",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-1hgnchr"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "500",
+            "lineHeight": "15.6px",
+            "letterSpacing": "-0.13px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Industries where our sites consistently outperform benchmarks",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-1hgnchr"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "500",
+            "lineHeight": "15.6px",
+            "letterSpacing": "-0.13px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        }
+      ],
+      "buttons": [],
+      "links": [
+        {
+          "text": "About usAbout us",
+          "href": "https://mattis.framer.website/about",
+          "classes": [
+            "framer-LXztY",
+            "framer-ZYeI7",
+            "framer-19qt3v8",
+            "framer-v-19qt3v8",
+            "framer-1a17v34"
+          ]
+        }
+      ],
+      "labels": [
+        "if they trust your site",
+        "spacing, typography, image quality, and structure"
+      ]
+    },
+    "images": [],
+    "videos": [],
+    "backgrounds": [
+      {
+        "selector": "div.",
+        "url": "https://framerusercontent.com/images/eFCg3n7XxnLCImN4MelOsAGvIUY.jpg?width=569&height=885"
+      },
+      {
+        "selector": "div.",
+        "url": "https://framerusercontent.com/images/rR6HYXBrMmX4cRpXfXUOvpvpB0.png"
+      }
+    ],
+    "svgs": [
+      {
+        "outerHTML": "<svg class=\"framer-VdeRv framer-1ijauur\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--1335ju: 2; --18mrqx2: var(--token-8bc48ec1-e739-449f-9808-c21f0169d1a2, rgb(255, 255, 255)); --3it368: 1; opacity: 1;\"><use href=\"#2430009286\"></use></svg>"
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "slug": "03-showreel",
+    "selector": "section.framer-eevidw",
+    "bbox": {
+      "x": 0,
+      "y": 1752,
+      "width": 1425,
+      "height": 688
+    },
+    "framer": {
+      "name": "Showreel",
+      "attrs": {
+        "data-framer-name": "Showreel"
+      }
+    },
+    "text": {
+      "headings": [
+        {
+          "level": 2,
+          "text": "Webuildwebsites.",
+          "classes": [],
+          "bbox": {
+            "x": 20,
+            "y": 1385,
+            "width": 335,
+            "height": 128
+          },
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "52px",
+            "fontWeight": "600",
+            "lineHeight": "42.64px",
+            "letterSpacing": "-2.6px",
+            "color": "rgb(11, 11, 11)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "text": "2019-26©",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgba(11, 11, 11, 0.6)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "where moving forward feels obvious, natural, and impossible to overthink.",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(11, 11, 11)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "↓ SEE THE WORK",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgba(11, 11, 11, 0.6)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Showreel",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(11, 11, 11)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        }
+      ],
+      "buttons": [],
+      "links": [],
+      "labels": [
+        "where moving forward feels",
+        ", and"
+      ]
+    },
+    "images": [],
+    "videos": [],
+    "backgrounds": [
+      {
+        "selector": "div.",
+        "url": "https://framerusercontent.com/images/ROGfhegDuACLsAjwXl6Yy1kaYzM.jpg?width=756&height=480"
+      }
+    ],
+    "svgs": [
+      {
+        "outerHTML": "<svg style=\"width:100%;height:100%;\" viewBox=\"0 0 28 28\" preserveAspectRatio=\"none\" width=\"100%\" height=\"100%\"><use href=\"#svg-1811528748_216\"></use></svg>"
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "slug": "04-works",
+    "selector": "section.framer-1ludsib",
+    "bbox": {
+      "x": 0,
+      "y": 2439,
+      "width": 1425,
+      "height": 2700
+    },
+    "framer": {
+      "name": "Works",
+      "attrs": {
+        "data-framer-name": "Works"
+      }
+    },
+    "text": {
+      "headings": [],
+      "paragraphs": [
+        {
+          "text": "(01)",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Branding",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Development",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Box mode",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "2026",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Portfolio",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "(02)",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Web design",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Development",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Nomad Stays",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "2026",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Portfolio",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "(03)",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Web design",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Branding",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "We run brand",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "2026",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Portfolio",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        }
+      ],
+      "buttons": [],
+      "links": [
+        {
+          "text": "(01)BrandingDevelopmentBox mode2026Portfolio",
+          "href": "https://mattis.framer.website/work/box-mode",
+          "classes": [
+            "framer-deuDo",
+            "framer-40F7T",
+            "framer-z2o4lz",
+            "framer-v-1q2zv7r",
+            "framer-128kit5"
+          ]
+        },
+        {
+          "text": "(02)Web designDevelopmentNomad Stays2026Portfolio",
+          "href": "https://mattis.framer.website/work/nomad-stays",
+          "classes": [
+            "framer-deuDo",
+            "framer-40F7T",
+            "framer-z2o4lz",
+            "framer-v-1q2zv7r",
+            "framer-128kit5"
+          ]
+        },
+        {
+          "text": "(03)Web designBrandingWe run brand2026Portfolio",
+          "href": "https://mattis.framer.website/work/we-run-brand",
+          "classes": [
+            "framer-deuDo",
+            "framer-40F7T",
+            "framer-z2o4lz",
+            "framer-v-1q2zv7r",
+            "framer-128kit5"
+          ]
+        }
+      ],
+      "labels": []
+    },
+    "images": [
+      {
+        "src": "https://framerusercontent.com/images/RFACYseyJUnIgKpC8Ji85GEz4.jpg?width=2000&height=1280",
+        "alt": "",
+        "bbox": {
+          "x": 0,
+          "y": 1898,
+          "width": 375,
+          "height": 800
+        },
+        "role": "medium",
+        "srcset": "https://framerusercontent.com/images/RFACYseyJUnIgKpC8Ji85GEz4.jpg?scale-down-to=512&width=2000&height=1280 512w,https://framerusercontent.com/images/RFACYseyJUnIgKpC8Ji85GEz4.jpg?scale-down-to=1024&width=2000&height=1280 1024w,https://framerusercontent.com/images/RFACYseyJUnIgKpC8Ji85GEz4.jpg?width=2000&height=1280 2000w",
+        "srcsetEntries": [
+          {
+            "url": "https://framerusercontent.com/images/RFACYseyJUnIgKpC8Ji85GEz4.jpg?scale-down-to=512&width=2000&height=1280",
+            "descriptor": "512w"
+          },
+          {
+            "url": "https://framerusercontent.com/images/RFACYseyJUnIgKpC8Ji85GEz4.jpg?scale-down-to=1024&width=2000&height=1280",
+            "descriptor": "1024w"
+          },
+          {
+            "url": "https://framerusercontent.com/images/RFACYseyJUnIgKpC8Ji85GEz4.jpg?width=2000&height=1280",
+            "descriptor": "2000w"
+          }
+        ],
+        "sizes": "max(max(100vw, 1px), 1px)",
+        "loading": "lazy",
+        "decoding": "auto"
+      },
+      {
+        "src": "https://framerusercontent.com/images/RFACYseyJUnIgKpC8Ji85GEz4.jpg?width=2000&height=1280",
+        "alt": "",
+        "bbox": {
+          "x": 20,
+          "y": 1356,
+          "width": 335,
+          "height": 193
+        },
+        "role": "medium",
+        "srcset": "https://framerusercontent.com/images/RFACYseyJUnIgKpC8Ji85GEz4.jpg?scale-down-to=512&width=2000&height=1280 512w,https://framerusercontent.com/images/RFACYseyJUnIgKpC8Ji85GEz4.jpg?scale-down-to=1024&width=2000&height=1280 1024w,https://framerusercontent.com/images/RFACYseyJUnIgKpC8Ji85GEz4.jpg?width=2000&height=1280 2000w",
+        "srcsetEntries": [
+          {
+            "url": "https://framerusercontent.com/images/RFACYseyJUnIgKpC8Ji85GEz4.jpg?scale-down-to=512&width=2000&height=1280",
+            "descriptor": "512w"
+          },
+          {
+            "url": "https://framerusercontent.com/images/RFACYseyJUnIgKpC8Ji85GEz4.jpg?scale-down-to=1024&width=2000&height=1280",
+            "descriptor": "1024w"
+          },
+          {
+            "url": "https://framerusercontent.com/images/RFACYseyJUnIgKpC8Ji85GEz4.jpg?width=2000&height=1280",
+            "descriptor": "2000w"
+          }
+        ],
+        "sizes": "max(min(max(100vw, 1px) - 40px, 1440px), 1px)",
+        "loading": "lazy",
+        "decoding": "auto"
+      },
+      {
+        "src": "https://framerusercontent.com/images/qtQPMLsOZSfMrr1H8paEqfCmqjQ.jpeg?scale-down-to=2048&width=2752&height=1536",
+        "alt": "",
+        "bbox": {
+          "x": 0,
+          "y": 3498,
+          "width": 375,
+          "height": 800
+        },
+        "role": "medium",
+        "srcset": "https://framerusercontent.com/images/qtQPMLsOZSfMrr1H8paEqfCmqjQ.jpeg?scale-down-to=512&width=2752&height=1536 512w,https://framerusercontent.com/images/qtQPMLsOZSfMrr1H8paEqfCmqjQ.jpeg?scale-down-to=1024&width=2752&height=1536 1024w,https://framerusercontent.com/images/qtQPMLsOZSfMrr1H8paEqfCmqjQ.jpeg?scale-down-to=2048&width=2752&height=1536 2048w,https://framerusercontent.com/images/qtQPMLsOZSfMrr1H8paEqfCmqjQ.jpeg?width=2752&height=1536 2752w",
+        "srcsetEntries": [
+          {
+            "url": "https://framerusercontent.com/images/qtQPMLsOZSfMrr1H8paEqfCmqjQ.jpeg?scale-down-to=512&width=2752&height=1536",
+            "descriptor": "512w"
+          },
+          {
+            "url": "https://framerusercontent.com/images/qtQPMLsOZSfMrr1H8paEqfCmqjQ.jpeg?scale-down-to=1024&width=2752&height=1536",
+            "descriptor": "1024w"
+          },
+          {
+            "url": "https://framerusercontent.com/images/qtQPMLsOZSfMrr1H8paEqfCmqjQ.jpeg?scale-down-to=2048&width=2752&height=1536",
+            "descriptor": "2048w"
+          },
+          {
+            "url": "https://framerusercontent.com/images/qtQPMLsOZSfMrr1H8paEqfCmqjQ.jpeg?width=2752&height=1536",
+            "descriptor": "2752w"
+          }
+        ],
+        "sizes": "max(max(100vw, 1px), 1px)",
+        "loading": "lazy",
+        "decoding": "auto"
+      },
+      {
+        "src": "https://framerusercontent.com/images/qtQPMLsOZSfMrr1H8paEqfCmqjQ.jpeg?scale-down-to=2048&width=2752&height=1536",
+        "alt": "",
+        "bbox": {
+          "x": 20,
+          "y": 2956,
+          "width": 335,
+          "height": 193
+        },
+        "role": "medium",
+        "srcset": "https://framerusercontent.com/images/qtQPMLsOZSfMrr1H8paEqfCmqjQ.jpeg?scale-down-to=512&width=2752&height=1536 512w,https://framerusercontent.com/images/qtQPMLsOZSfMrr1H8paEqfCmqjQ.jpeg?scale-down-to=1024&width=2752&height=1536 1024w,https://framerusercontent.com/images/qtQPMLsOZSfMrr1H8paEqfCmqjQ.jpeg?scale-down-to=2048&width=2752&height=1536 2048w,https://framerusercontent.com/images/qtQPMLsOZSfMrr1H8paEqfCmqjQ.jpeg?width=2752&height=1536 2752w",
+        "srcsetEntries": [
+          {
+            "url": "https://framerusercontent.com/images/qtQPMLsOZSfMrr1H8paEqfCmqjQ.jpeg?scale-down-to=512&width=2752&height=1536",
+            "descriptor": "512w"
+          },
+          {
+            "url": "https://framerusercontent.com/images/qtQPMLsOZSfMrr1H8paEqfCmqjQ.jpeg?scale-down-to=1024&width=2752&height=1536",
+            "descriptor": "1024w"
+          },
+          {
+            "url": "https://framerusercontent.com/images/qtQPMLsOZSfMrr1H8paEqfCmqjQ.jpeg?scale-down-to=2048&width=2752&height=1536",
+            "descriptor": "2048w"
+          },
+          {
+            "url": "https://framerusercontent.com/images/qtQPMLsOZSfMrr1H8paEqfCmqjQ.jpeg?width=2752&height=1536",
+            "descriptor": "2752w"
+          }
+        ],
+        "sizes": "max(min(max(100vw, 1px) - 40px, 1440px), 1px)",
+        "loading": "lazy",
+        "decoding": "auto"
+      }
+    ],
+    "videos": [],
+    "backgrounds": [
+      {
+        "selector": "div.",
+        "url": "https://framerusercontent.com/images/rR6HYXBrMmX4cRpXfXUOvpvpB0.png"
+      }
+    ],
+    "svgs": []
+  },
+  {
+    "index": 5,
+    "slug": "05-number",
+    "selector": "section.framer-5mbkz6",
+    "bbox": {
+      "x": 0,
+      "y": 5139,
+      "width": 1425,
+      "height": 841
+    },
+    "framer": {
+      "name": "Number",
+      "attrs": {
+        "data-framer-name": "Number"
+      }
+    },
+    "text": {
+      "headings": [
+        {
+          "level": 2,
+          "text": "Built onreputation",
+          "classes": [],
+          "bbox": {
+            "x": 20,
+            "y": 4344,
+            "width": 335,
+            "height": 85
+          },
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "52px",
+            "fontWeight": "600",
+            "lineHeight": "42.64px",
+            "letterSpacing": "-2.6px",
+            "color": "rgb(11, 11, 11)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "text": "Why us?",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgba(11, 11, 11, 0.6)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Average client rating on Google & Clutch",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-1hgnchr"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "500",
+            "lineHeight": "15.6px",
+            "letterSpacing": "-0.13px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Our Reviews",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-1hgnchr"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "500",
+            "lineHeight": "15.6px",
+            "letterSpacing": "-0.13px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Our Reviews",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-1hgnchr"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "500",
+            "lineHeight": "15.6px",
+            "letterSpacing": "-0.13px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Business comes fromdirect referrals",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-1hgnchr"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "500",
+            "lineHeight": "15.6px",
+            "letterSpacing": "-0.13px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Start a Project",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-1hgnchr"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "500",
+            "lineHeight": "15.6px",
+            "letterSpacing": "-0.13px",
+            "color": "rgb(11, 11, 11)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Start a Project",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-1hgnchr"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "500",
+            "lineHeight": "15.6px",
+            "letterSpacing": "-0.13px",
+            "color": "rgb(11, 11, 11)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        }
+      ],
+      "buttons": [],
+      "links": [
+        {
+          "text": "Our ReviewsOur Reviews",
+          "href": "https://www.trustpilot.com/",
+          "classes": [
+            "framer-LXztY",
+            "framer-ZYeI7",
+            "framer-19qt3v8",
+            "framer-v-19qt3v8",
+            "framer-1a17v34"
+          ]
+        },
+        {
+          "text": "Start a ProjectStart a Project",
+          "href": "https://mattis.framer.website/contact",
+          "classes": [
+            "framer-LXztY",
+            "framer-ZYeI7",
+            "framer-19qt3v8",
+            "framer-v-19qt3v8",
+            "framer-1a17v34"
+          ]
+        }
+      ],
+      "labels": []
+    },
+    "images": [
+      {
+        "src": "https://framerusercontent.com/images/zEI0hdyA7XwBgF3OgjoRGPVMk.jpg?width=397&height=400",
+        "alt": "",
+        "bbox": {
+          "x": 20,
+          "y": 4909,
+          "width": 100,
+          "height": 100
+        },
+        "role": "small",
+        "loading": "lazy",
+        "decoding": "auto"
+      }
+    ],
+    "videos": [],
+    "backgrounds": [],
+    "svgs": [
+      {
+        "outerHTML": "<svg class=\"framer-VdeRv framer-1ijauur\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--1335ju:2;--18mrqx2:var(--token-8bc48ec1-e739-449f-9808-c21f0169d1a2, rgb(255, 255, 255));--3it368:1;opacity:1\" data-cs-id=\"686\"><use href=\"#2430009286\" data-cs-id=\"687\"></use></svg>"
+      },
+      {
+        "outerHTML": "<svg class=\"framer-VdeRv framer-1ijauur\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--1335ju:2;--18mrqx2:var(--token-078c9a12-d3d0-47c1-be44-0efff52af868, rgb(11, 11, 11));--3it368:1;opacity:1\" data-cs-id=\"710\"><use href=\"#2430009286\" data-cs-id=\"711\"></use></svg>"
+      },
+      {
+        "outerHTML": "<svg style=\"width:100%;height:100%;\" viewBox=\"0 0 52 25\" preserveAspectRatio=\"none\" width=\"100%\" height=\"100%\" data-cs-id=\"717\"><use href=\"#svg-2098037606_341\" data-cs-id=\"718\"></use></svg>"
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "slug": "06-desktop",
+    "selector": "section.framer-Iaj5T.framer-40F7T",
+    "bbox": {
+      "x": 0,
+      "y": 5980,
+      "width": 1425,
+      "height": 1279
+    },
+    "framer": {
+      "name": "Phone",
+      "attrs": {
+        "data-framer-name": "Phone"
+      }
+    },
+    "text": {
+      "headings": [],
+      "paragraphs": [
+        {
+          "text": "Services",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgba(255, 255, 255, 0.6)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Every project starts with understanding how your customers make decisions — and what's stopping them from making one right now.",
+          "classes": [],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "22px",
+            "fontWeight": "500",
+            "lineHeight": "24.2px",
+            "letterSpacing": "-0.44px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Strategy & Research",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-htsnb8"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "lineHeight": "19.2px",
+            "letterSpacing": "-0.16px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Price: from",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgba(255, 255, 255, 0.6)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "$2,900",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-htsnb8"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "lineHeight": "19.2px",
+            "letterSpacing": "-0.16px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Matter Studio opens every project with an audit of your current customer journey. We identify the moments where users lose context or delay a decision, then restructure the flow so each next step feels like the obvious thing to do. Nbehavioral patterns backed by data.",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgba(255, 255, 255, 0.6)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "This approach reduces drop-offs before design even begins. It builds an environment where choosing you becomes the path of least resistance for your customer.",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgba(255, 255, 255, 0.6)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Design & Prototyping",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-htsnb8"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "lineHeight": "19.2px",
+            "letterSpacing": "-0.16px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Price: from",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgba(255, 255, 255, 0.6)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "$3,900",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-htsnb8"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "lineHeight": "19.2px",
+            "letterSpacing": "-0.16px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "We translate strategic insights into high-fidelity interfaces that prioritize clarity and visual impact. Every element is tested through interactive prototypes, ensuring that the user experience is intuitive, seamless, and perfectly aligned with your brand’s unique identity.",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgba(255, 255, 255, 0.6)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "By prototyping before coding, we eliminate guesswork and ensure technical feasibility. You get a pixel-perfect preview of the final product, allowing for rapid iteration and a design that truly resonates with your target audience.",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgba(255, 255, 255, 0.6)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Development",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-htsnb8"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "lineHeight": "19.2px",
+            "letterSpacing": "-0.16px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Price: from",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgba(255, 255, 255, 0.6)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "$4,500",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-htsnb8"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "lineHeight": "19.2px",
+            "letterSpacing": "-0.16px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Our development process focuses on clean, scalable code and high-performance engineering. We build responsive websites and custom web applications using modern frameworks that ensure fast loading times, robust security, and a future-proof architecture.",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgba(255, 255, 255, 0.6)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "We bridge the gap between complex functionality and effortless performance. The result is a high-speed digital product that functions flawlessly across all devices, providing a rock-solid foundation for your business to scale and grow.",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgba(255, 255, 255, 0.6)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Support & Growth",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-htsnb8"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "lineHeight": "19.2px",
+            "letterSpacing": "-0.16px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Price: from",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgba(255, 255, 255, 0.6)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "$1,200",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-htsnb8"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "lineHeight": "19.2px",
+            "letterSpacing": "-0.16px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Launching is just the beginning. We provide proactive monitoring, security updates, and performance tuning to keep your platform running at peak efficiency. Our team remains available to implement new features and refine the UX based on real-world user data.",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgba(255, 255, 255, 0.6)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "This continuous optimization ensures your site evolves alongside your business needs. We minimize downtime and technical debt, giving you the peace of mind to focus on your core operations while we handle the technical heavy lifting.",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgba(255, 255, 255, 0.6)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "SEO",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-htsnb8"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "lineHeight": "19.2px",
+            "letterSpacing": "-0.16px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Price: from",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgba(255, 255, 255, 0.6)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "$990",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-htsnb8"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "lineHeight": "19.2px",
+            "letterSpacing": "-0.16px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Our SEO strategy goes beyond keywords; we optimize the technical architecture and content hierarchy for maximum visibility. We ensure search engines can crawl, index, and rank your site effectively, driving high-quality organic traffic directly to your platform.",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgba(255, 255, 255, 0.6)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Visibility leads to authority. By aligning your site with search intent, we help you capture high-intent leads and maintain a competitive edge. It’s about building a sustainable traffic source that grows in value over time.",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgba(255, 255, 255, 0.6)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        }
+      ],
+      "buttons": [],
+      "links": [],
+      "labels": []
+    },
+    "images": [],
+    "videos": [],
+    "backgrounds": [
+      {
+        "selector": "div.",
+        "url": "https://framerusercontent.com/images/V4ZkWaLPRZ6Dp0De8M0jUyQIc.jpg?width=720&height=422"
+      },
+      {
+        "selector": "div.",
+        "url": "https://framerusercontent.com/images/rR6HYXBrMmX4cRpXfXUOvpvpB0.png"
+      },
+      {
+        "selector": "div.",
+        "url": "https://framerusercontent.com/images/R8DWarznw4xTxUguf9qS1vaU0A.jpg?width=1137&height=660"
+      },
+      {
+        "selector": "div.",
+        "url": "https://framerusercontent.com/images/lcNzeG9RhgOhjPwtCyEu0UULtC0.jpg?width=1137&height=660"
+      },
+      {
+        "selector": "div.",
+        "url": "https://framerusercontent.com/images/iKu3BZinxyUoaGwZRZSSbtwnugk.jpg?width=1137&height=660"
+      },
+      {
+        "selector": "div.",
+        "url": "https://framerusercontent.com/images/uUK7snanCm0W5wfsCQFrajzteoY.jpg?width=1137&height=660"
+      }
+    ],
+    "svgs": []
+  },
+  {
+    "index": 7,
+    "slug": "07-numbers",
+    "selector": "section.framer-2iabe2",
+    "bbox": {
+      "x": 0,
+      "y": 7259,
+      "width": 1425,
+      "height": 823
+    },
+    "framer": {
+      "name": "Numbers",
+      "attrs": {
+        "data-framer-appear-id": "2iabe2",
+        "data-framer-name": "Numbers"
+      }
+    },
+    "text": {
+      "headings": [
+        {
+          "level": 2,
+          "text": "Every result here started with a problem worth solving.",
+          "classes": [],
+          "bbox": {
+            "x": 20,
+            "y": 6146,
+            "width": 335,
+            "height": 341
+          },
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "52px",
+            "fontWeight": "600",
+            "lineHeight": "42.64px",
+            "letterSpacing": "-2.6px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "text": "How we do it",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgba(255, 255, 255, 0.7)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Projects shipped with measurable conversion lift",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgba(255, 255, 255, 0.7)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Average time to firstmeaningful action on our sites",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgba(255, 255, 255, 0.7)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Of clients come fromdirect referrals",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgba(255, 255, 255, 0.7)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "We don't chase volume. We take on projects where our process can make a measurable difference. Most clients stay for years.",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgba(255, 255, 255, 0.6)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Jennifer Peterson",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Head of Sales at",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-18rrjz2"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "500",
+            "lineHeight": "13.2px",
+            "letterSpacing": "-0.11px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Mattis®",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-1hgnchr"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "500",
+            "lineHeight": "15.6px",
+            "letterSpacing": "-0.13px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        }
+      ],
+      "buttons": [],
+      "links": [],
+      "labels": [
+        "shipped",
+        "conversion lift",
+        "meaningful action",
+        "direct referrals",
+        "We don't chase volume",
+        "measurable difference"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://framerusercontent.com/images/wlJMtkRVckBTirLzGQd8qmCMDw.jpg?width=83&height=83",
+        "alt": "",
+        "bbox": {
+          "x": 20,
+          "y": 6582,
+          "width": 50,
+          "height": 50
+        },
+        "role": "small",
+        "loading": "lazy",
+        "decoding": "auto"
+      }
+    ],
+    "videos": [],
+    "backgrounds": [],
+    "svgs": []
+  },
+  {
+    "index": 8,
+    "slug": "08-desktop",
+    "selector": "section.framer-94Yol.framer-40F7T",
+    "bbox": {
+      "x": 0,
+      "y": 8082,
+      "width": 1425,
+      "height": 735
+    },
+    "framer": {
+      "name": "Phone",
+      "attrs": {
+        "data-framer-name": "Phone"
+      }
+    },
+    "text": {
+      "headings": [
+        {
+          "level": 2,
+          "text": "Before weget started.",
+          "classes": [],
+          "bbox": {
+            "x": 20,
+            "y": 7105,
+            "width": 335,
+            "height": 85
+          },
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "52px",
+            "fontWeight": "600",
+            "lineHeight": "42.64px",
+            "letterSpacing": "-2.6px",
+            "color": "rgb(11, 11, 11)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "text": "FAQ",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgba(11, 11, 11, 0.6)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Do you write the copy or do I need to provide it?",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-11kvajf"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "500",
+            "lineHeight": "13.2px",
+            "letterSpacing": "-0.11px",
+            "color": "rgba(11, 11, 11, 0.6)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "We can handle it both ways. You can provide your own content, or our copywriters can craft professional, SEO-optimized copy tailored specifically to your brand and goals.",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-1r5vzwr"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "lineHeight": "21.6px",
+            "letterSpacing": "-0.18px",
+            "color": "rgb(11, 11, 11)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Can I see the design before you build it?",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-11kvajf"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "500",
+            "lineHeight": "13.2px",
+            "letterSpacing": "-0.11px",
+            "color": "rgba(11, 11, 11, 0.6)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Absolutely. We don't start the development phase until you have reviewed and fully approved the high-fidelity design mockups in Figma.",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-1r5vzwr"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "lineHeight": "21.6px",
+            "letterSpacing": "-0.18px",
+            "color": "rgb(11, 11, 11)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "What happens after launch?",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-11kvajf"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "500",
+            "lineHeight": "13.2px",
+            "letterSpacing": "-0.11px",
+            "color": "rgba(11, 11, 11, 0.6)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "We don’t just disappear. We provide post-launch technical support, training for your team on how to manage the site, and options for ongoing maintenance and scaling.",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-1r5vzwr"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "lineHeight": "21.6px",
+            "letterSpacing": "-0.18px",
+            "color": "rgb(11, 11, 11)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "What if I'm not happy with the result?",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-11kvajf"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "500",
+            "lineHeight": "13.2px",
+            "letterSpacing": "-0.11px",
+            "color": "rgba(11, 11, 11, 0.6)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "We work in clear milestones (wireframes, design, development). By requiring your approval at each stage, we ensure the final product aligns perfectly with your vision before it’s even finished.",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-1r5vzwr"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "lineHeight": "21.6px",
+            "letterSpacing": "-0.18px",
+            "color": "rgb(11, 11, 11)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Ask a question",
+          "classes": [
+            "framer-text"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Ask a question",
+          "classes": [
+            "framer-text"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        }
+      ],
+      "buttons": [],
+      "links": [
+        {
+          "text": "Ask a questionAsk a question",
+          "href": "https://mattis.framer.website/contact",
+          "classes": [
+            "framer-u11T2",
+            "framer-1sk0ilg",
+            "framer-v-1pfy5jr",
+            "framer-vo3oy5"
+          ]
+        }
+      ],
+      "labels": []
+    },
+    "images": [],
+    "videos": [],
+    "backgrounds": [],
+    "svgs": []
+  },
+  {
+    "index": 9,
+    "slug": "09-quote-pricing",
+    "selector": "section.framer-ok4122",
+    "bbox": {
+      "x": 0,
+      "y": 8818,
+      "width": 1425,
+      "height": 1541
+    },
+    "framer": {
+      "name": "Quote + Pricing",
+      "attrs": {
+        "data-framer-name": "Quote + Pricing"
+      }
+    },
+    "text": {
+      "headings": [
+        {
+          "level": 2,
+          "text": "Pricing.",
+          "classes": [],
+          "bbox": {
+            "x": 20,
+            "y": 8062,
+            "width": 335,
+            "height": 43
+          },
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "52px",
+            "fontWeight": "600",
+            "lineHeight": "42.64px",
+            "letterSpacing": "-2.6px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "text": "Anna Schneider",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Head of Sales at",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-18rrjz2"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "500",
+            "lineHeight": "13.2px",
+            "letterSpacing": "-0.11px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Mattis®",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-1hgnchr"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "500",
+            "lineHeight": "15.6px",
+            "letterSpacing": "-0.13px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "“The hardest part of building a website isn't the code — it's knowing what to leave out. Every element that doesn't serve the visitor is working against you.”",
+          "classes": [],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "22px",
+            "fontWeight": "500",
+            "lineHeight": "24.2px",
+            "letterSpacing": "-0.44px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Our team treats simplicity as a discipline, not a shortcut.",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgba(255, 255, 255, 0.6)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "A solid site built on proven structure. Launch-ready, no extras.",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgba(255, 255, 255, 0.6)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Foundation",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(11, 11, 11)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Growth",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Scale",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Feature",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgba(255, 255, 255, 0.6)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "$4,800",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-1r5vzwr"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "lineHeight": "21.6px",
+            "letterSpacing": "-0.18px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "/month",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-11kvajf"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "500",
+            "lineHeight": "13.2px",
+            "letterSpacing": "-0.11px",
+            "color": "rgba(255, 255, 255, 0.6)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Strategy & behavioral audit",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "We study how your visitors actually behave on your site. Where they click, where they stop, where they leave.",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-1epsd85"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "15.6px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(11, 11, 11)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Number of pages",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Conversion wireframes",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Copywriting support",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Brand identity system",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "A complete visual foundation for your brand: logo, typography, color palette, icon style, and usage guidelines.",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-1epsd85"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "15.6px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(11, 11, 11)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Copywriting support",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "A/B testing setup",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Timeline",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Ongoing support",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Up to 5",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Basic",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "3–4 weeks",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Get started",
+          "classes": [
+            "framer-text"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Get started",
+          "classes": [
+            "framer-text"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        }
+      ],
+      "buttons": [],
+      "links": [
+        {
+          "text": "Get startedGet started",
+          "href": "https://mattis.framer.website/contact",
+          "classes": [
+            "framer-u11T2",
+            "framer-1sk0ilg",
+            "framer-v-1pfy5jr",
+            "framer-vo3oy5"
+          ]
+        }
+      ],
+      "labels": []
+    },
+    "images": [],
+    "videos": [],
+    "backgrounds": [
+      {
+        "selector": "div.",
+        "url": "https://framerusercontent.com/images/ncY5akdtmiquhkDxINCBcqKRm8.jpg?width=270&height=341"
+      },
+      {
+        "selector": "div.",
+        "url": "https://framerusercontent.com/images/rR6HYXBrMmX4cRpXfXUOvpvpB0.png"
+      }
+    ],
+    "svgs": [
+      {
+        "outerHTML": "<svg style=\"width:100%;height:100%;\" preserveAspectRatio=\"none\" width=\"100%\" height=\"100%\"><use href=\"#svg-1731655350_11847\"></use></svg>"
+      },
+      {
+        "outerHTML": "<svg class=\"framer-EuS1Y framer-1hqj5yn\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--1m6trwb: 0; --21h8s6: var(--token-8bc48ec1-e739-449f-9808-c21f0169d1a2, rgb(255, 255, 255)); --pgex8v: 2.5; opacity: 1;\"><use href=\"#3270379688\"></use></svg>"
+      },
+      {
+        "outerHTML": "<svg class=\"framer-EuS1Y framer-1hqj5yn\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--1m6trwb: 0; --21h8s6: var(--token-8bc48ec1-e739-449f-9808-c21f0169d1a2, rgb(255, 255, 255)); --pgex8v: 2.5; opacity: 1;\"><use href=\"#3270379688\"></use></svg>"
+      },
+      {
+        "outerHTML": "<svg data-framer-name=\"Icon\" class=\"framer-MO1L3 framer-1to6opk\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--1ww558a: 4; --4rxgx6: rgb(255, 255, 255); opacity: 1;\"><use href=\"#1839610128\"></use></svg>"
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "slug": "10-desktop",
+    "selector": "section.framer-KMr8P.framer-40F7T",
+    "bbox": {
+      "x": 0,
+      "y": 10359,
+      "width": 1425,
+      "height": 974
+    },
+    "framer": {
+      "name": "Phone",
+      "attrs": {
+        "data-framer-name": "Phone"
+      }
+    },
+    "text": {
+      "headings": [
+        {
+          "level": 2,
+          "text": "What our clients say.",
+          "classes": [],
+          "bbox": {
+            "x": 20,
+            "y": 8877,
+            "width": 335,
+            "height": 85
+          },
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "52px",
+            "fontWeight": "600",
+            "lineHeight": "42.64px",
+            "letterSpacing": "-2.6px",
+            "color": "rgb(11, 11, 11)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "text": "Client stories",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgba(11, 11, 11, 0.6)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "We let the results speak. But sometimes the people behind them have something to add.",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgba(11, 11, 11, 0.6)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "\"We launched in two weeks and had paying customers by week three. I've worked with agencies that took months to deliver half of this.\"",
+          "classes": [],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "22px",
+            "fontWeight": "500",
+            "lineHeight": "24.2px",
+            "letterSpacing": "-0.44px",
+            "color": "rgb(11, 11, 11)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Sophie Andersen",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-2okhk1"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "lineHeight": "18.2px",
+            "letterSpacing": "-0.14px",
+            "color": "rgb(11, 11, 11)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Co-founder",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-1epsd85"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "15.6px",
+            "letterSpacing": "-0.12px",
+            "color": "rgba(11, 11, 11, 0.6)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        }
+      ],
+      "buttons": [],
+      "links": [],
+      "labels": [
+        "results speak",
+        "something to add"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://framerusercontent.com/images/mORiocPNTtVLJZs2cAljPc1iMeE.jpg?width=987&height=987",
+        "alt": "",
+        "bbox": {
+          "x": 20,
+          "y": 9317,
+          "width": 335,
+          "height": 335
+        },
+        "role": "medium",
+        "srcset": "https://framerusercontent.com/images/mORiocPNTtVLJZs2cAljPc1iMeE.jpg?scale-down-to=512&width=987&height=987 512w,https://framerusercontent.com/images/mORiocPNTtVLJZs2cAljPc1iMeE.jpg?width=987&height=987 987w",
+        "srcsetEntries": [
+          {
+            "url": "https://framerusercontent.com/images/mORiocPNTtVLJZs2cAljPc1iMeE.jpg?scale-down-to=512&width=987&height=987",
+            "descriptor": "512w"
+          },
+          {
+            "url": "https://framerusercontent.com/images/mORiocPNTtVLJZs2cAljPc1iMeE.jpg?width=987&height=987",
+            "descriptor": "987w"
+          }
+        ],
+        "sizes": "min(min(100vw - 40px, 1440px), 570px)",
+        "loading": "lazy",
+        "decoding": "auto"
+      }
+    ],
+    "videos": [],
+    "backgrounds": [
+      {
+        "selector": "div.",
+        "url": "https://framerusercontent.com/images/mORiocPNTtVLJZs2cAljPc1iMeE.jpg?width=987&height=987"
+      },
+      {
+        "selector": "div.",
+        "url": "https://framerusercontent.com/images/rR6HYXBrMmX4cRpXfXUOvpvpB0.png"
+      }
+    ],
+    "svgs": []
+  },
+  {
+    "index": 11,
+    "slug": "11-articles",
+    "selector": "section.framer-rngvmt",
+    "bbox": {
+      "x": 0,
+      "y": 11473,
+      "width": 1425,
+      "height": 1001
+    },
+    "framer": {
+      "name": "Articles",
+      "attrs": {
+        "data-framer-name": "Articles"
+      }
+    },
+    "text": {
+      "headings": [
+        {
+          "level": 2,
+          "text": "News andupdates.",
+          "classes": [],
+          "bbox": {
+            "x": 20,
+            "y": 9850,
+            "width": 335,
+            "height": 85
+          },
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "52px",
+            "fontWeight": "600",
+            "lineHeight": "42.64px",
+            "letterSpacing": "-2.6px",
+            "color": "rgb(11, 11, 11)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "text": "See more",
+          "classes": [
+            "framer-text"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "See more",
+          "classes": [
+            "framer-text"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgb(255, 255, 255)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Why most redesigns fail — and what to do instead",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-htsnb8"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "lineHeight": "19.2px",
+            "letterSpacing": "-0.16px",
+            "color": "rgb(11, 11, 11)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Mar 31, 2026",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgba(11, 11, 11, 0.6)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "How to write a landing page that actually converts",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-htsnb8"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "lineHeight": "19.2px",
+            "letterSpacing": "-0.16px",
+            "color": "rgb(11, 11, 11)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Mar 31, 2026",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgba(11, 11, 11, 0.6)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "How we cut bounce rate by 34% with one layout change",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-htsnb8"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "lineHeight": "19.2px",
+            "letterSpacing": "-0.16px",
+            "color": "rgb(11, 11, 11)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Mar 30, 2026",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgba(11, 11, 11, 0.6)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Small defaults, big outcomes: lessons from behavioral design",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-htsnb8"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "lineHeight": "19.2px",
+            "letterSpacing": "-0.16px",
+            "color": "rgb(11, 11, 11)",
+            "textTransform": "none",
+            "fontStyle": "normal"
+          }
+        },
+        {
+          "text": "Mar 25, 2026",
+          "classes": [
+            "framer-text",
+            "framer-styles-preset-wwtw0z"
+          ],
+          "style": {
+            "fontFamily": "Geist, \"Geist Placeholder\", sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "lineHeight": "14.4px",
+            "letterSpacing": "-0.12px",
+            "color": "rgba(11, 11, 11, 0.6)",
+            "textTransform": "uppercase",
+            "fontStyle": "normal"
+          }
+        }
+      ],
+      "buttons": [],
+      "links": [
+        {
+          "text": "See moreSee more",
+          "href": "https://mattis.framer.website/blog",
+          "classes": [
+            "framer-u11T2",
+            "framer-1sk0ilg",
+            "framer-v-1pfy5jr",
+            "framer-vo3oy5"
+          ]
+        },
+        {
+          "text": "Why most redesigns fail — and what to do insteadMar 31, 2026",
+          "href": "https://mattis.framer.website/blog/why-most-redesigns-fail-%E2%80%94-and-what-to-do-instead",
+          "classes": [
+            "framer-Lihuv",
+            "framer-dxcZm",
+            "framer-40F7T",
+            "framer-ee18h2",
+            "framer-v-w53g0k",
+            "framer-1fldki4"
+          ]
+        },
+        {
+          "text": "How to write a landing page that actually convertsMar 31, 2026",
+          "href": "https://mattis.framer.website/blog/how-to-write-a-landing-page-that-actually-converts",
+          "classes": [
+            "framer-1b26u1w",
+            "framer-lux5qc"
+          ]
+        },
+        {
+          "text": "How we cut bounce rate by 34% with one layout changeMar 30, 2026",
+          "href": "https://mattis.framer.website/blog/how-we-cut-bounce-rate-by-34-with-one-layout-change",
+          "classes": [
+            "framer-Lihuv",
+            "framer-dxcZm",
+            "framer-40F7T",
+            "framer-ee18h2",
+            "framer-v-w53g0k",
+            "framer-1fldki4"
+          ]
+        },
+        {
+          "text": "Small defaults, big outcomes: lessons from behavioral designMar 25, 2026",
+          "href": "https://mattis.framer.website/blog/small-defaults-big-outcomes-lessons-from-behavioral-design",
+          "classes": [
+            "framer-Lihuv",
+            "framer-dxcZm",
+            "framer-40F7T",
+            "framer-ee18h2",
+            "framer-v-w53g0k",
+            "framer-1fldki4"
+          ]
+        }
+      ],
+      "labels": []
+    },
+    "images": [
+      {
+        "src": "https://framerusercontent.com/images/LPSVulPRLpcRP2J08Ln0raAcQ.jpg?width=1180&height=1519",
+        "alt": "",
+        "bbox": {
+          "x": 20,
+          "y": 10005,
+          "width": 335,
+          "height": 431
+        },
+        "role": "medium",
+        "srcset": "https://framerusercontent.com/images/LPSVulPRLpcRP2J08Ln0raAcQ.jpg?scale-down-to=1024&width=1180&height=1519 795w,https://framerusercontent.com/images/LPSVulPRLpcRP2J08Ln0raAcQ.jpg?width=1180&height=1519 1180w",
+        "srcsetEntries": [
+          {
+            "url": "https://framerusercontent.com/images/LPSVulPRLpcRP2J08Ln0raAcQ.jpg?scale-down-to=1024&width=1180&height=1519",
+            "descriptor": "795w"
+          },
+          {
+            "url": "https://framerusercontent.com/images/LPSVulPRLpcRP2J08Ln0raAcQ.jpg?width=1180&height=1519",
+            "descriptor": "1180w"
+          }
+        ],
+        "sizes": "max(min(100vw - 40px, 1440px), 1px)",
+        "loading": "lazy",
+        "decoding": "auto"
+      },
+      {
+        "src": "https://framerusercontent.com/images/4eISosOoYjMJ3exo170tf63A0Z4.jpg?scale-down-to=512&width=1920&height=1613",
+        "alt": "",
+        "bbox": {
+          "x": 42,
+          "y": 10553,
+          "width": 50,
+          "height": 50
+        },
+        "role": "small",
+        "srcset": "https://framerusercontent.com/images/4eISosOoYjMJ3exo170tf63A0Z4.jpg?scale-down-to=512&width=1920&height=1613 512w,https://framerusercontent.com/images/4eISosOoYjMJ3exo170tf63A0Z4.jpg?scale-down-to=1024&width=1920&height=1613 1024w,https://framerusercontent.com/images/4eISosOoYjMJ3exo170tf63A0Z4.jpg?width=1920&height=1613 1920w",
+        "srcsetEntries": [
+          {
+            "url": "https://framerusercontent.com/images/4eISosOoYjMJ3exo170tf63A0Z4.jpg?scale-down-to=512&width=1920&height=1613",
+            "descriptor": "512w"
+          },
+          {
+            "url": "https://framerusercontent.com/images/4eISosOoYjMJ3exo170tf63A0Z4.jpg?scale-down-to=1024&width=1920&height=1613",
+            "descriptor": "1024w"
+          },
+          {
+            "url": "https://framerusercontent.com/images/4eISosOoYjMJ3exo170tf63A0Z4.jpg?width=1920&height=1613",
+            "descriptor": "1920w"
+          }
+        ],
+        "sizes": "(min-width: 1200px) 50px, (min-width: 810px) and (max-width: 1199.98px) 50px, (max-width: 809.98px) 50px",
+        "loading": "lazy",
+        "decoding": "auto"
+      },
+      {
+        "src": "https://framerusercontent.com/images/kM932F9EcDwrzgr753VM8bb6pIg.jpg?width=1802&height=2725",
+        "alt": "",
+        "bbox": {
+          "x": 20,
+          "y": 10891,
+          "width": 335,
+          "height": 507
+        },
+        "role": "medium",
+        "srcset": "https://framerusercontent.com/images/kM932F9EcDwrzgr753VM8bb6pIg.jpg?scale-down-to=1024&width=1802&height=2725 677w,https://framerusercontent.com/images/kM932F9EcDwrzgr753VM8bb6pIg.jpg?scale-down-to=2048&width=1802&height=2725 1354w,https://framerusercontent.com/images/kM932F9EcDwrzgr753VM8bb6pIg.jpg?width=1802&height=2725 1802w",
+        "srcsetEntries": [
+          {
+            "url": "https://framerusercontent.com/images/kM932F9EcDwrzgr753VM8bb6pIg.jpg?scale-down-to=1024&width=1802&height=2725",
+            "descriptor": "677w"
+          },
+          {
+            "url": "https://framerusercontent.com/images/kM932F9EcDwrzgr753VM8bb6pIg.jpg?scale-down-to=2048&width=1802&height=2725",
+            "descriptor": "1354w"
+          },
+          {
+            "url": "https://framerusercontent.com/images/kM932F9EcDwrzgr753VM8bb6pIg.jpg?width=1802&height=2725",
+            "descriptor": "1802w"
+          }
+        ],
+        "sizes": "max(min(100vw - 40px, 1440px), 1px)",
+        "loading": "lazy",
+        "decoding": "auto"
+      },
+      {
+        "src": "https://framerusercontent.com/images/MF8lvEusopYl3xxox4RCKrziJ0c.jpg?width=1920&height=1697",
+        "alt": "",
+        "bbox": {
+          "x": 20,
+          "y": 11492,
+          "width": 335,
+          "height": 296
+        },
+        "role": "medium",
+        "srcset": "https://framerusercontent.com/images/MF8lvEusopYl3xxox4RCKrziJ0c.jpg?scale-down-to=512&width=1920&height=1697 512w,https://framerusercontent.com/images/MF8lvEusopYl3xxox4RCKrziJ0c.jpg?scale-down-to=1024&width=1920&height=1697 1024w,https://framerusercontent.com/images/MF8lvEusopYl3xxox4RCKrziJ0c.jpg?width=1920&height=1697 1920w",
+        "srcsetEntries": [
+          {
+            "url": "https://framerusercontent.com/images/MF8lvEusopYl3xxox4RCKrziJ0c.jpg?scale-down-to=512&width=1920&height=1697",
+            "descriptor": "512w"
+          },
+          {
+            "url": "https://framerusercontent.com/images/MF8lvEusopYl3xxox4RCKrziJ0c.jpg?scale-down-to=1024&width=1920&height=1697",
+            "descriptor": "1024w"
+          },
+          {
+            "url": "https://framerusercontent.com/images/MF8lvEusopYl3xxox4RCKrziJ0c.jpg?width=1920&height=1697",
+            "descriptor": "1920w"
+          }
+        ],
+        "sizes": "max(min(100vw - 40px, 1440px), 1px)",
+        "loading": "lazy",
+        "decoding": "auto"
+      }
+    ],
+    "videos": [],
+    "backgrounds": [
+      {
+        "selector": "div.",
+        "url": "https://framerusercontent.com/images/LPSVulPRLpcRP2J08Ln0raAcQ.jpg?width=1180&height=1519"
+      },
+      {
+        "selector": "div.",
+        "url": "https://framerusercontent.com/images/rR6HYXBrMmX4cRpXfXUOvpvpB0.png"
+      },
+      {
+        "selector": "div.",
+        "url": "https://framerusercontent.com/images/kM932F9EcDwrzgr753VM8bb6pIg.jpg?width=1802&height=2725"
+      },
+      {
+        "selector": "div.",
+        "url": "https://framerusercontent.com/images/MF8lvEusopYl3xxox4RCKrziJ0c.jpg?width=1920&height=1697"
+      }
+    ],
+    "svgs": [
+      {
+        "outerHTML": "<svg style=\"width:100%;height:100%;\" viewBox=\"0 0 22 22\" preserveAspectRatio=\"none\" width=\"100%\" height=\"100%\" data-cs-id=\"1608\"><use href=\"#svg778577855_796\" data-cs-id=\"1609\"></use></svg>"
+      }
+    ]
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "slug": "01-hero",
+    "framerName": "Hero",
+    "totalAnimated": 204,
+    "cdpFired": 0,
+    "hasParallax": false,
+    "hasMarquee": false,
+    "hasCharStagger": false,
+    "hasViewportFade": false,
+    "staggerGroups": [],
+    "dominantEasing": "ease",
+    "dominantDurationMs": 200,
+    "notable": []
+  },
+  {
+    "slug": "02-about",
+    "framerName": "About",
+    "totalAnimated": 307,
+    "cdpFired": 3,
+    "hasParallax": false,
+    "hasMarquee": false,
+    "hasCharStagger": false,
+    "hasViewportFade": true,
+    "staggerGroups": [
+      {
+        "count": 3,
+        "durationMs": 600,
+        "delayStepMs": 80,
+        "easing": "cubic-bezier(0.68, 0, 0, 1)"
+      }
+    ],
+    "dominantEasing": "ease",
+    "dominantDurationMs": 600,
+    "notable": [
+      "stagger group: 3 items, 80ms step, 600ms each, easing `cubic-bezier(0.68, 0, 0, 1)`",
+      "1 hover state(s): opacity (timing typically 0s ease)"
+    ]
+  },
+  {
+    "slug": "03-showreel",
+    "framerName": "Showreel",
+    "totalAnimated": 61,
+    "cdpFired": 3,
+    "hasParallax": false,
+    "hasMarquee": false,
+    "hasCharStagger": false,
+    "hasViewportFade": false,
+    "staggerGroups": [
+      {
+        "count": 3,
+        "durationMs": 500,
+        "delayStepMs": 60,
+        "easing": "cubic-bezier(0.68, 0, 0, 1)"
+      }
+    ],
+    "dominantEasing": "ease",
+    "dominantDurationMs": 500,
+    "notable": [
+      "stagger group: 3 items, 60ms step, 500ms each, easing `cubic-bezier(0.68, 0, 0, 1)`"
+    ]
+  },
+  {
+    "slug": "04-works",
+    "framerName": "Works",
+    "totalAnimated": 141,
+    "cdpFired": 0,
+    "hasParallax": false,
+    "hasMarquee": false,
+    "hasCharStagger": false,
+    "hasViewportFade": false,
+    "staggerGroups": [],
+    "dominantEasing": "ease",
+    "notable": []
+  },
+  {
+    "slug": "05-number",
+    "framerName": "Number",
+    "totalAnimated": 114,
+    "cdpFired": 2,
+    "hasParallax": false,
+    "hasMarquee": false,
+    "hasCharStagger": false,
+    "hasViewportFade": true,
+    "staggerGroups": [],
+    "dominantEasing": "ease",
+    "dominantDurationMs": 600,
+    "notable": [
+      "section enters on scroll: fade-up, ~600ms, easing `ease`",
+      "6 hover state(s): opacity (timing typically 0s ease)"
+    ]
+  },
+  {
+    "slug": "06-desktop",
+    "framerName": "Desktop",
+    "totalAnimated": 200,
+    "cdpFired": 4,
+    "hasParallax": false,
+    "hasMarquee": false,
+    "hasCharStagger": false,
+    "hasViewportFade": false,
+    "staggerGroups": [
+      {
+        "count": 4,
+        "durationMs": 500,
+        "delayStepMs": 70,
+        "easing": "cubic-bezier(0.68, 0, 0, 1)"
+      }
+    ],
+    "dominantEasing": "ease",
+    "dominantDurationMs": 500,
+    "notable": [
+      "stagger group: 4 items, 70ms step, 500ms each, easing `cubic-bezier(0.68, 0, 0, 1)`"
+    ]
+  },
+  {
+    "slug": "07-numbers",
+    "framerName": "Numbers",
+    "totalAnimated": 111,
+    "cdpFired": 6,
+    "hasParallax": false,
+    "hasMarquee": false,
+    "hasCharStagger": false,
+    "hasViewportFade": true,
+    "staggerGroups": [
+      {
+        "count": 6,
+        "durationMs": 600,
+        "delayStepMs": 80,
+        "easing": "cubic-bezier(0.68, 0, 0, 1)"
+      }
+    ],
+    "dominantEasing": "ease",
+    "dominantDurationMs": 600,
+    "notable": [
+      "stagger group: 6 items, 80ms step, 600ms each, easing `cubic-bezier(0.68, 0, 0, 1)`"
+    ]
+  },
+  {
+    "slug": "08-desktop",
+    "framerName": "Desktop",
+    "totalAnimated": 159,
+    "cdpFired": 2,
+    "hasParallax": false,
+    "hasMarquee": false,
+    "hasCharStagger": false,
+    "hasViewportFade": true,
+    "staggerGroups": [],
+    "dominantEasing": "ease",
+    "dominantDurationMs": 600,
+    "notable": [
+      "section enters on scroll: fade-up, ~600ms, easing `ease`"
+    ]
+  },
+  {
+    "slug": "09-quote-pricing",
+    "framerName": "Quote + Pricing",
+    "totalAnimated": 134,
+    "cdpFired": 0,
+    "hasParallax": false,
+    "hasMarquee": false,
+    "hasCharStagger": false,
+    "hasViewportFade": false,
+    "staggerGroups": [],
+    "dominantEasing": "ease",
+    "notable": []
+  },
+  {
+    "slug": "10-desktop",
+    "framerName": "Desktop",
+    "totalAnimated": 43,
+    "cdpFired": 6,
+    "hasParallax": false,
+    "hasMarquee": false,
+    "hasCharStagger": false,
+    "hasViewportFade": true,
+    "staggerGroups": [
+      {
+        "count": 4,
+        "durationMs": 400,
+        "delayStepMs": 60,
+        "easing": "cubic-bezier(0.68, 0, 0, 1)"
+      }
+    ],
+    "dominantEasing": "ease",
+    "dominantDurationMs": 400,
+    "notable": [
+      "stagger group: 4 items, 60ms step, 400ms each, easing `cubic-bezier(0.68, 0, 0, 1)`"
+    ]
+  },
+  {
+    "slug": "11-articles",
+    "framerName": "Articles",
+    "totalAnimated": 27,
+    "cdpFired": 2,
+    "hasParallax": false,
+    "hasMarquee": false,
+    "hasCharStagger": false,
+    "hasViewportFade": true,
+    "staggerGroups": [],
+    "dominantEasing": "ease",
+    "dominantDurationMs": 600,
+    "notable": [
+      "section enters on scroll: fade-up, ~600ms, easing `ease`"
+    ]
+  }
+]

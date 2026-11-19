@@ -1,0 +1,746 @@
+{
+  "behaviors": [
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-0\"]",
+      "framerName": "Closed",
+      "tag": "div",
+      "kind": [
+        "pinned"
+      ],
+      "scrollFrom": 0,
+      "scrollTo": 13207,
+      "vpTopSlope": 0,
+      "bboxStart": {
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 844
+      },
+      "bboxEnd": {
+        "x": 0,
+        "y": 12518,
+        "w": 375,
+        "h": 844
+      },
+      "text": "MenuHomeWorksAboutBlogContactContacthello@mattertudio.com+1 ",
+      "sectionSlug": "01-hero",
+      "csId": "4"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-1\"]",
+      "framerName": "Navigation Menu",
+      "tag": "div",
+      "kind": [
+        "pinned"
+      ],
+      "scrollFrom": 0,
+      "scrollTo": 13207,
+      "vpTopSlope": 0,
+      "bboxStart": {
+        "x": 36,
+        "y": 541,
+        "w": 59,
+        "h": 126
+      },
+      "bboxEnd": {
+        "x": 36,
+        "y": 13059,
+        "w": 59,
+        "h": 126
+      },
+      "text": "HomeWorksAboutBlogContact",
+      "sectionSlug": "01-hero",
+      "csId": "10"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-2\"]",
+      "framerName": "Desktop",
+      "tag": "a",
+      "kind": [
+        "pinned"
+      ],
+      "scrollFrom": 0,
+      "scrollTo": 13207,
+      "vpTopSlope": 0,
+      "bboxStart": {
+        "x": 22,
+        "y": 700,
+        "w": 331,
+        "h": 45
+      },
+      "bboxEnd": {
+        "x": 22,
+        "y": 13218,
+        "w": 331,
+        "h": 45
+      },
+      "text": "START A PROJECTSTART A PROJECT",
+      "sectionSlug": "01-hero",
+      "csId": "50"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-3\"]",
+      "framerName": "Closed",
+      "tag": "div",
+      "kind": [
+        "pinned"
+      ],
+      "scrollFrom": 0,
+      "scrollTo": 13207,
+      "vpTopSlope": 0,
+      "bboxStart": {
+        "x": 163,
+        "y": 774,
+        "w": 50,
+        "h": 50
+      },
+      "bboxEnd": {
+        "x": 163,
+        "y": 13292,
+        "w": 50,
+        "h": 50
+      },
+      "sectionSlug": "01-hero",
+      "csId": "57"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-4\"]",
+      "framerName": "Bg blur",
+      "tag": "div",
+      "kind": [
+        "pinned"
+      ],
+      "scrollFrom": 0,
+      "scrollTo": 13207,
+      "vpTopSlope": 0,
+      "bboxStart": {
+        "x": 164,
+        "y": 775,
+        "w": 48,
+        "h": 48
+      },
+      "bboxEnd": {
+        "x": 164,
+        "y": 13293,
+        "w": 48,
+        "h": 48
+      },
+      "sectionSlug": "01-hero",
+      "csId": "62"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-5\"]",
+      "framerName": "BG blur",
+      "tag": "div",
+      "kind": [
+        "pinned"
+      ],
+      "scrollFrom": 0,
+      "scrollTo": 13207,
+      "vpTopSlope": 0,
+      "bboxStart": {
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 844
+      },
+      "bboxEnd": {
+        "x": 0,
+        "y": 12518,
+        "w": 375,
+        "h": 844
+      },
+      "sectionSlug": "01-hero",
+      "csId": "63"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-243\"]",
+      "framerName": "Phone",
+      "tag": "div",
+      "kind": [
+        "pinned"
+      ],
+      "scrollFrom": 0,
+      "scrollTo": 13207,
+      "vpTopSlope": 0,
+      "bboxStart": {
+        "x": 228,
+        "y": 740,
+        "w": 127,
+        "h": 44
+      },
+      "bboxEnd": {
+        "x": 228,
+        "y": 13258,
+        "w": 127,
+        "h": 44
+      },
+      "text": "MATTIS®See What You Getfrom$129",
+      "sectionSlug": "01-hero",
+      "csId": "1864"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-267\"]",
+      "tag": "div",
+      "kind": [
+        "pinned"
+      ],
+      "scrollFrom": 0,
+      "scrollTo": 13207,
+      "vpTopSlope": 0,
+      "bboxStart": {
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 844
+      },
+      "bboxEnd": {
+        "x": 0,
+        "y": 12518,
+        "w": 375,
+        "h": 844
+      },
+      "text": "MenuHomeWorksAboutBlogContactContacthello@mattertudio.com+1 ",
+      "sectionSlug": "01-hero",
+      "csId": "3"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-268\"]",
+      "tag": "div",
+      "kind": [
+        "pinned"
+      ],
+      "scrollFrom": 0,
+      "scrollTo": 13207,
+      "vpTopSlope": 0,
+      "bboxStart": {
+        "x": 228,
+        "y": 740,
+        "w": 127,
+        "h": 44
+      },
+      "bboxEnd": {
+        "x": 228,
+        "y": 13258,
+        "w": 127,
+        "h": 44
+      },
+      "text": "MATTIS®See What You Getfrom$129",
+      "sectionSlug": "01-hero",
+      "csId": "1862"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-269\"]",
+      "tag": "div",
+      "kind": [
+        "pinned"
+      ],
+      "scrollFrom": 0,
+      "scrollTo": 13207,
+      "vpTopSlope": 0,
+      "bboxStart": {
+        "x": 0,
+        "y": 766,
+        "w": 375,
+        "h": 78
+      },
+      "bboxEnd": {
+        "x": 0,
+        "y": 13284,
+        "w": 375,
+        "h": 78
+      },
+      "text": "Create a free website with Framer, the website builder loved",
+      "sectionSlug": "01-hero",
+      "csId": "1884"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-43\"]",
+      "framerName": "Media",
+      "tag": "div",
+      "kind": [
+        "parallax"
+      ],
+      "scrollFrom": 0,
+      "scrollTo": 4939,
+      "vpTopSlope": -0.52,
+      "bboxStart": {
+        "x": 20,
+        "y": 1356,
+        "w": 335,
+        "h": 193
+      },
+      "bboxEnd": {
+        "x": 20,
+        "y": 3044,
+        "w": 335,
+        "h": 193
+      },
+      "sectionSlug": "02-about"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-44\"]",
+      "framerName": "Image",
+      "tag": "div",
+      "kind": [
+        "parallax"
+      ],
+      "scrollFrom": 0,
+      "scrollTo": 4939,
+      "vpTopSlope": -0.52,
+      "bboxStart": {
+        "x": 20,
+        "y": 1356,
+        "w": 335,
+        "h": 193
+      },
+      "bboxEnd": {
+        "x": 20,
+        "y": 3044,
+        "w": 335,
+        "h": 193
+      },
+      "sectionSlug": "02-about"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-52\"]",
+      "framerName": "Media",
+      "tag": "div",
+      "kind": [
+        "parallax"
+      ],
+      "scrollFrom": 0,
+      "scrollTo": 5780,
+      "vpTopSlope": -0.6,
+      "bboxStart": {
+        "x": 20,
+        "y": 2156,
+        "w": 335,
+        "h": 193
+      },
+      "bboxEnd": {
+        "x": 20,
+        "y": 3844,
+        "w": 335,
+        "h": 193
+      },
+      "sectionSlug": "03-showreel"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-61\"]",
+      "framerName": "Media",
+      "tag": "div",
+      "kind": [
+        "parallax"
+      ],
+      "scrollFrom": 0,
+      "scrollTo": 6463,
+      "vpTopSlope": -0.64,
+      "bboxStart": {
+        "x": 20,
+        "y": 2956,
+        "w": 335,
+        "h": 193
+      },
+      "bboxEnd": {
+        "x": 20,
+        "y": 4644,
+        "w": 335,
+        "h": 193
+      },
+      "sectionSlug": "04-works"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-62\"]",
+      "framerName": "Image",
+      "tag": "div",
+      "kind": [
+        "parallax"
+      ],
+      "scrollFrom": 0,
+      "scrollTo": 6463,
+      "vpTopSlope": -0.64,
+      "bboxStart": {
+        "x": 20,
+        "y": 2956,
+        "w": 335,
+        "h": 193
+      },
+      "bboxEnd": {
+        "x": 20,
+        "y": 4644,
+        "w": 335,
+        "h": 193
+      },
+      "sectionSlug": "04-works"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-225\"]",
+      "framerName": "User Image",
+      "tag": "div",
+      "kind": [
+        "parallax"
+      ],
+      "scrollFrom": 9515,
+      "scrollTo": 13207,
+      "vpTopSlope": -0.92,
+      "bboxStart": {
+        "x": 20,
+        "y": 12479,
+        "w": 335,
+        "h": 223
+      },
+      "bboxEnd": {
+        "x": 20,
+        "y": 12479,
+        "w": 335,
+        "h": 223
+      },
+      "text": "Jennifer Peterson",
+      "csId": "1672"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-227\"]",
+      "framerName": "Darken",
+      "tag": "div",
+      "kind": [
+        "parallax"
+      ],
+      "scrollFrom": 9835,
+      "scrollTo": 13207,
+      "vpTopSlope": -0.9,
+      "bboxStart": {
+        "x": 20,
+        "y": 12601,
+        "w": 335,
+        "h": 100
+      },
+      "bboxEnd": {
+        "x": 20,
+        "y": 12601,
+        "w": 335,
+        "h": 100
+      },
+      "csId": "1682"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-228\"]",
+      "framerName": "Quote",
+      "tag": "div",
+      "kind": [
+        "parallax"
+      ],
+      "scrollFrom": 9835,
+      "scrollTo": 13207,
+      "vpTopSlope": -0.9,
+      "bboxStart": {
+        "x": 20,
+        "y": 12701,
+        "w": 335,
+        "h": 88
+      },
+      "bboxEnd": {
+        "x": 20,
+        "y": 12701,
+        "w": 335,
+        "h": 88
+      },
+      "text": "I'll personally review your brief and get back to you within",
+      "csId": "1693"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-229\"]",
+      "framerName": "Contact Info",
+      "tag": "div",
+      "kind": [
+        "parallax"
+      ],
+      "scrollFrom": 9835,
+      "scrollTo": 13207,
+      "vpTopSlope": -0.9,
+      "bboxStart": {
+        "x": 20,
+        "y": 12809,
+        "w": 335,
+        "h": 119
+      },
+      "bboxEnd": {
+        "x": 20,
+        "y": 12809,
+        "w": 335,
+        "h": 119
+      },
+      "text": "Contact+1 (555) 400 0123hello@mattistudio.comWe usually resp",
+      "csId": "1698"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-230\"]",
+      "framerName": "Contact Details",
+      "tag": "div",
+      "kind": [
+        "parallax"
+      ],
+      "scrollFrom": 9835,
+      "scrollTo": 13207,
+      "vpTopSlope": -0.9,
+      "bboxStart": {
+        "x": 20,
+        "y": 12809,
+        "w": 335,
+        "h": 75
+      },
+      "bboxEnd": {
+        "x": 20,
+        "y": 12809,
+        "w": 335,
+        "h": 75
+      },
+      "text": "Contact+1 (555) 400 0123hello@mattistudio.com",
+      "csId": "1699"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-231\"]",
+      "framerName": "Contact Info",
+      "tag": "div",
+      "kind": [
+        "parallax"
+      ],
+      "scrollFrom": 9835,
+      "scrollTo": 13207,
+      "vpTopSlope": -0.9,
+      "bboxStart": {
+        "x": 20,
+        "y": 12832,
+        "w": 335,
+        "h": 51
+      },
+      "bboxEnd": {
+        "x": 20,
+        "y": 12832,
+        "w": 335,
+        "h": 51
+      },
+      "text": "+1 (555) 400 0123hello@mattistudio.com",
+      "csId": "1702"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-234\"]",
+      "framerName": "Desktop",
+      "tag": "button",
+      "kind": [
+        "parallax"
+      ],
+      "scrollFrom": 9515,
+      "scrollTo": 13207,
+      "vpTopSlope": -0.92,
+      "bboxStart": {
+        "x": 20,
+        "y": 12351,
+        "w": 335,
+        "h": 50
+      },
+      "bboxEnd": {
+        "x": 20,
+        "y": 12351,
+        "w": 335,
+        "h": 50
+      },
+      "text": "Send messageSend message",
+      "sectionSlug": "11-articles",
+      "csId": "1751"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-236\"]",
+      "framerName": "Column",
+      "tag": "div",
+      "kind": [
+        "parallax"
+      ],
+      "scrollFrom": 10116,
+      "scrollTo": 13207,
+      "vpTopSlope": -0.9,
+      "bboxStart": {
+        "x": 20,
+        "y": 13034,
+        "w": 335,
+        "h": 272
+      },
+      "bboxEnd": {
+        "x": 20,
+        "y": 13034,
+        "w": 335,
+        "h": 272
+      },
+      "text": "NavigationHomeWorksContactBlog404Visit Us124 City Road, Lond",
+      "csId": "1781"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-237\"]",
+      "framerName": "Navigation Links",
+      "tag": "nav",
+      "kind": [
+        "parallax"
+      ],
+      "scrollFrom": 10116,
+      "scrollTo": 13207,
+      "vpTopSlope": -0.9,
+      "bboxStart": {
+        "x": 20,
+        "y": 13064,
+        "w": 66,
+        "h": 132
+      },
+      "bboxEnd": {
+        "x": 20,
+        "y": 13064,
+        "w": 66,
+        "h": 132
+      },
+      "text": "HomeWorksContactBlog404",
+      "csId": "1786"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-238\"]",
+      "framerName": "Contact Details",
+      "tag": "div",
+      "kind": [
+        "parallax"
+      ],
+      "scrollFrom": 10116,
+      "scrollTo": 13207,
+      "vpTopSlope": -0.9,
+      "bboxStart": {
+        "x": 144,
+        "y": 13034,
+        "w": 211,
+        "h": 158
+      },
+      "bboxEnd": {
+        "x": 144,
+        "y": 13034,
+        "w": 211,
+        "h": 158
+      },
+      "text": "Visit Us124 City Road, London, EC1V 2NXMon–Fri: 09:00 – 18:0",
+      "csId": "1802"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-239\"]",
+      "framerName": "Contact Info",
+      "tag": "div",
+      "kind": [
+        "parallax"
+      ],
+      "scrollFrom": 10116,
+      "scrollTo": 13207,
+      "vpTopSlope": -0.9,
+      "bboxStart": {
+        "x": 144,
+        "y": 13064,
+        "w": 211,
+        "h": 87
+      },
+      "bboxEnd": {
+        "x": 144,
+        "y": 13064,
+        "w": 211,
+        "h": 87
+      },
+      "text": "124 City Road, London, EC1V 2NXMon–Fri: 09:00 – 18:00Sat: 10",
+      "csId": "1805"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-240\"]",
+      "framerName": "Navigation Home",
+      "tag": "div",
+      "kind": [
+        "parallax"
+      ],
+      "scrollFrom": 10116,
+      "scrollTo": 13207,
+      "vpTopSlope": -0.9,
+      "bboxStart": {
+        "x": 144,
+        "y": 13064,
+        "w": 211,
+        "h": 43
+      },
+      "bboxEnd": {
+        "x": 144,
+        "y": 13064,
+        "w": 211,
+        "h": 43
+      },
+      "text": "124 City Road, London, EC1V 2NX",
+      "csId": "1806"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-9\"]",
+      "framerName": "Container",
+      "tag": "div",
+      "kind": [
+        "scroll-translated"
+      ],
+      "scrollFrom": 0,
+      "scrollTo": 1967,
+      "vpTopSlope": -0.93,
+      "translateYStart": 0,
+      "translateYEnd": 138,
+      "bboxStart": {
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 710
+      },
+      "bboxEnd": {
+        "x": 0,
+        "y": 138,
+        "w": 375,
+        "h": 710
+      },
+      "text": "(Est. 2019 — Version 1.0.4)Mattis® studioWe align strategy, ",
+      "sectionSlug": "01-hero",
+      "csId": "111"
+    },
+    {
+      "selector": "[data-esi-sm=\"__esi-sm-21\"]",
+      "framerName": "BG",
+      "tag": "div",
+      "kind": [
+        "scroll-translated"
+      ],
+      "scrollFrom": 0,
+      "scrollTo": 2248,
+      "vpTopSlope": -0.88,
+      "translateYStart": 0,
+      "translateYEnd": 270,
+      "bboxStart": {
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 710
+      },
+      "bboxEnd": {
+        "x": 0,
+        "y": 270,
+        "w": 375,
+        "h": 710
+      },
+      "sectionSlug": "01-hero",
+      "csId": "355"
+    }
+  ],
+  "sectionBgColors": {
+    "01-hero": "rgb(255, 255, 255)",
+    "02-about": "rgb(255, 69, 0)",
+    "03-showreel": "rgb(233, 233, 233)",
+    "04-works": "rgb(233, 233, 233)",
+    "05-number": "rgb(233, 233, 233)",
+    "06-desktop": "rgb(11, 11, 11)",
+    "07-numbers": "rgb(255, 69, 0)",
+    "08-desktop": "rgb(233, 233, 233)",
+    "09-quote-pricing": "rgb(11, 11, 11)",
+    "10-desktop": "rgb(233, 233, 233)",
+    "11-articles": "rgb(233, 233, 233)"
+  }
+}

@@ -1,0 +1,11 @@
+/* Source-declared CSS custom properties (read from :root / html / body) */
+:root {
+  --token-8bc48ec1-e739-449f-9808-c21f0169d1a2: #fff;
+  --token-65f7d412-ea73-45f7-91cd-0a64a2e777ba: #ff4500;
+  --token-078c9a12-d3d0-47c1-be44-0efff52af868: #0b0b0b;
+  --token-d26d0a6a-bee9-45a2-90b0-4331e05dae91: #0b0b0b99;
+  --token-a6a442ab-37fd-449e-b679-15d23843839a: #fff9;
+  --token-b159bd95-c4c3-4895-ac13-bb2691900e06: #e9e9e9;
+  --framer-will-change-override: none;
+  --framer-will-change-filter-override: none;
+}

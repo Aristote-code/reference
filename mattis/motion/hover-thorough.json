@@ -1,0 +1,1856 @@
+[
+  {
+    "triggerCsId": "25",
+    "triggerTag": "a",
+    "targetCsId": "25",
+    "delta": {
+      "color": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      },
+      "borderColor": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      }
+    },
+    "duration": "0.2s",
+    "easing": "cubic-bezier(0.44, 0, 0.56, 1)"
+  },
+  {
+    "triggerCsId": "30",
+    "triggerTag": "a",
+    "targetCsId": "30",
+    "delta": {
+      "color": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      },
+      "borderColor": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      }
+    },
+    "duration": "0.2s",
+    "easing": "cubic-bezier(0.44, 0, 0.56, 1)"
+  },
+  {
+    "triggerCsId": "35",
+    "triggerTag": "a",
+    "targetCsId": "35",
+    "delta": {
+      "color": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      },
+      "borderColor": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      }
+    },
+    "duration": "0.2s",
+    "easing": "cubic-bezier(0.44, 0, 0.56, 1)"
+  },
+  {
+    "triggerCsId": "40",
+    "triggerTag": "a",
+    "targetCsId": "40",
+    "delta": {
+      "color": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      },
+      "borderColor": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      }
+    },
+    "duration": "0.2s",
+    "easing": "cubic-bezier(0.44, 0, 0.56, 1)"
+  },
+  {
+    "triggerCsId": "42",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "44",
+    "targetFramerName": "1",
+    "delta": {
+      "transform": {
+        "from": "none",
+        "to": "matrix(1, 0, 0, 1, -52.1797, 0)"
+      },
+      "opacity": {
+        "from": "1",
+        "to": "0"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "42",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "46",
+    "targetFramerName": "2",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -52.1797, 0)",
+        "to": "none"
+      },
+      "opacity": {
+        "from": "0",
+        "to": "1"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "336",
+    "triggerFramerName": "Variant 1",
+    "triggerTag": "a",
+    "targetCsId": "339",
+    "targetFramerName": "Text",
+    "delta": {
+      "opacity": {
+        "from": "0",
+        "to": "1"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "336",
+    "triggerFramerName": "Variant 1",
+    "triggerTag": "a",
+    "targetCsId": "341",
+    "delta": {
+      "opacity": {
+        "from": "1",
+        "to": "0.5"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "418",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "456",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -15.312, 0)",
+        "to": "matrix(1, 0, 0, 1, -117.59, 0)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "418",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "462",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -627, 576)",
+        "to": "matrix(1, 0, 0, 1, 342, 108)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "466",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "512",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -15.158, 0)",
+        "to": "matrix(1, 0, 0, 1, -116.226, 0)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "466",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "518",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, 855, 0)",
+        "to": "matrix(1, 0, 0, 1, 0, 540)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "522",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "560",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -15.301, 0)",
+        "to": "matrix(1, 0, 0, 1, -116.501, 0)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "522",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "566",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, 68.4, 828)",
+        "to": "matrix(1, 0, 0, 1, -125.4, 900)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "597",
+    "triggerFramerName": "Variant 1",
+    "triggerTag": "a",
+    "targetCsId": "600",
+    "targetFramerName": "Text",
+    "delta": {
+      "opacity": {
+        "from": "0",
+        "to": "1"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "597",
+    "triggerFramerName": "Variant 1",
+    "triggerTag": "a",
+    "targetCsId": "602",
+    "delta": {
+      "opacity": {
+        "from": "1",
+        "to": "0.5"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "621",
+    "triggerFramerName": "Variant 1",
+    "triggerTag": "a",
+    "targetCsId": "624",
+    "targetFramerName": "Text",
+    "delta": {
+      "opacity": {
+        "from": "0",
+        "to": "1"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "621",
+    "triggerFramerName": "Variant 1",
+    "triggerTag": "a",
+    "targetCsId": "626",
+    "delta": {
+      "opacity": {
+        "from": "1",
+        "to": "0.5"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1024",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "1026",
+    "targetFramerName": "1",
+    "delta": {
+      "transform": {
+        "from": "none",
+        "to": "matrix(1, 0, 0, 1, -48.6562, 0)"
+      },
+      "opacity": {
+        "from": "1",
+        "to": "0"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1024",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "1028",
+    "targetFramerName": "2",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -48.6562, 0)",
+        "to": "none"
+      },
+      "opacity": {
+        "from": "0",
+        "to": "1"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1244",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "1244",
+    "targetFramerName": "Desktop",
+    "delta": {
+      "backgroundColor": {
+        "from": "rgba(255, 255, 255, 0)",
+        "to": "rgb(255, 255, 255)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1244",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "1246",
+    "targetFramerName": "1",
+    "delta": {
+      "transform": {
+        "from": "none",
+        "to": "matrix(1, 0, 0, 1, -38.4062, 0)"
+      },
+      "opacity": {
+        "from": "1",
+        "to": "0"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1244",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "1247",
+    "delta": {
+      "color": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(11, 11, 11)"
+      },
+      "borderColor": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(11, 11, 11)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1244",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "1248",
+    "targetFramerName": "2",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -38.4062, 0)",
+        "to": "none"
+      },
+      "opacity": {
+        "from": "0",
+        "to": "1"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1244",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "1249",
+    "delta": {
+      "color": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(11, 11, 11)"
+      },
+      "borderColor": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(11, 11, 11)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1289",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "1291",
+    "targetFramerName": "1",
+    "delta": {
+      "transform": {
+        "from": "none",
+        "to": "matrix(1, 0, 0, 1, -38.4062, 0)"
+      },
+      "opacity": {
+        "from": "1",
+        "to": "0"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1289",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "1293",
+    "targetFramerName": "2",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -38.4062, 0)",
+        "to": "none"
+      },
+      "opacity": {
+        "from": "0",
+        "to": "1"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1334",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "1334",
+    "targetFramerName": "Desktop",
+    "delta": {
+      "backgroundColor": {
+        "from": "rgba(255, 255, 255, 0)",
+        "to": "rgb(255, 255, 255)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1334",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "1336",
+    "targetFramerName": "1",
+    "delta": {
+      "transform": {
+        "from": "none",
+        "to": "matrix(1, 0, 0, 1, -38.4062, 0)"
+      },
+      "opacity": {
+        "from": "1",
+        "to": "0"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1334",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "1337",
+    "delta": {
+      "color": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(11, 11, 11)"
+      },
+      "borderColor": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(11, 11, 11)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1334",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "1338",
+    "targetFramerName": "2",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -38.4062, 0)",
+        "to": "none"
+      },
+      "opacity": {
+        "from": "0",
+        "to": "1"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1334",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "1339",
+    "delta": {
+      "color": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(11, 11, 11)"
+      },
+      "borderColor": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(11, 11, 11)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1453",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "1455",
+    "targetFramerName": "1",
+    "delta": {
+      "transform": {
+        "from": "none",
+        "to": "matrix(1, 0, 0, 1, -30.125, 0)"
+      },
+      "opacity": {
+        "from": "1",
+        "to": "0"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1453",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "1457",
+    "targetFramerName": "2",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -30.125, 0)",
+        "to": "none"
+      },
+      "opacity": {
+        "from": "0",
+        "to": "1"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1471",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "1473",
+    "targetFramerName": "Parallax image",
+    "delta": {
+      "transform": {
+        "from": "none",
+        "to": "matrix(1.1, 0, 0, 1.1, 0, 0)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1471",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "1481",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -13.53, -34.8338)",
+        "to": "matrix(1, 0, 0, 1, -94.71, -121.918)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1511",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "1513",
+    "targetFramerName": "Parallax image",
+    "delta": {
+      "transform": {
+        "from": "none",
+        "to": "matrix(1.1, 0, 0, 1.1, 0, 0)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1511",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "1521",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, 64.944, -450.12)",
+        "to": "matrix(1, 0, 0, 1, -51.414, 409.2)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1533",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "1535",
+    "targetFramerName": "Parallax image",
+    "delta": {
+      "transform": {
+        "from": "none",
+        "to": "matrix(1.1, 0, 0, 1.1, 0, 0)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1533",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "1543",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -94.71, 263.079)",
+        "to": "matrix(1, 0, 0, 1, -81.18, 83.7069)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1597",
+    "triggerTag": "a",
+    "targetCsId": "1597",
+    "delta": {
+      "color": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      },
+      "borderColor": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      }
+    },
+    "duration": "0.2s",
+    "easing": "cubic-bezier(0.44, 0, 0.56, 1)"
+  },
+  {
+    "triggerCsId": "1600",
+    "triggerTag": "a",
+    "targetCsId": "1600",
+    "delta": {
+      "color": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      },
+      "borderColor": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      }
+    },
+    "duration": "0.2s",
+    "easing": "cubic-bezier(0.44, 0, 0.56, 1)"
+  },
+  {
+    "triggerCsId": "1643",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "button",
+    "targetCsId": "1645",
+    "targetFramerName": "Button Text",
+    "delta": {
+      "opacity": {
+        "from": "0",
+        "to": "1"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1643",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "button",
+    "targetCsId": "1647",
+    "targetFramerName": "Button Text",
+    "delta": {
+      "opacity": {
+        "from": "1",
+        "to": "0"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1651",
+    "triggerTag": "a",
+    "targetCsId": "1651",
+    "delta": {
+      "color": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      },
+      "borderColor": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      }
+    },
+    "duration": "0.2s",
+    "easing": "cubic-bezier(0.44, 0, 0.56, 1)"
+  },
+  {
+    "triggerCsId": "1652",
+    "triggerTag": "a",
+    "targetCsId": "1652",
+    "delta": {
+      "color": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      },
+      "borderColor": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      }
+    },
+    "duration": "0.2s",
+    "easing": "cubic-bezier(0.44, 0, 0.56, 1)"
+  },
+  {
+    "triggerCsId": "1669",
+    "triggerTag": "a",
+    "targetCsId": "1669",
+    "delta": {
+      "color": {
+        "from": "rgba(255, 255, 255, 0.6)",
+        "to": "rgb(255, 255, 255)"
+      },
+      "borderColor": {
+        "from": "rgba(255, 255, 255, 0.6)",
+        "to": "rgb(255, 255, 255)"
+      }
+    },
+    "duration": "0.2s, 0.2s, 0.2s, 0.2s",
+    "easing": "cubic-bezier(0.44, 0, 0.56, 1), cubic-bezier(0.44, 0, 0.56, 1), cubic-bezier(0.44, 0, 0.56, 1), cubic-bezier(0.44, 0, 0.56, 1)"
+  },
+  {
+    "triggerCsId": "1672",
+    "triggerTag": "a",
+    "targetCsId": "1672",
+    "delta": {
+      "color": {
+        "from": "rgba(255, 255, 255, 0.6)",
+        "to": "rgb(255, 255, 255)"
+      },
+      "borderColor": {
+        "from": "rgba(255, 255, 255, 0.6)",
+        "to": "rgb(255, 255, 255)"
+      }
+    },
+    "duration": "0.2s, 0.2s, 0.2s, 0.2s",
+    "easing": "cubic-bezier(0.44, 0, 0.56, 1), cubic-bezier(0.44, 0, 0.56, 1), cubic-bezier(0.44, 0, 0.56, 1), cubic-bezier(0.44, 0, 0.56, 1)"
+  },
+  {
+    "triggerCsId": "1681",
+    "triggerTag": "a",
+    "targetCsId": "1681",
+    "delta": {
+      "color": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      },
+      "borderColor": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      }
+    },
+    "duration": "0.2s",
+    "easing": "cubic-bezier(0.44, 0, 0.56, 1)"
+  },
+  {
+    "triggerCsId": "1684",
+    "triggerTag": "a",
+    "targetCsId": "1684",
+    "delta": {
+      "color": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      },
+      "borderColor": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      }
+    },
+    "duration": "0.2s",
+    "easing": "cubic-bezier(0.44, 0, 0.56, 1)"
+  },
+  {
+    "triggerCsId": "1687",
+    "triggerTag": "a",
+    "targetCsId": "1687",
+    "delta": {
+      "color": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      },
+      "borderColor": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      }
+    },
+    "duration": "0.2s",
+    "easing": "cubic-bezier(0.44, 0, 0.56, 1)"
+  },
+  {
+    "triggerCsId": "1690",
+    "triggerTag": "a",
+    "targetCsId": "1690",
+    "delta": {
+      "color": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      },
+      "borderColor": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      }
+    },
+    "duration": "0.2s",
+    "easing": "cubic-bezier(0.44, 0, 0.56, 1)"
+  },
+  {
+    "triggerCsId": "1693",
+    "triggerTag": "a",
+    "targetCsId": "1693",
+    "delta": {
+      "color": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      },
+      "borderColor": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(255, 69, 0)"
+      }
+    },
+    "duration": "0.2s",
+    "easing": "cubic-bezier(0.44, 0, 0.56, 1)"
+  },
+  {
+    "triggerCsId": "1707",
+    "triggerFramerName": "x",
+    "triggerTag": "a",
+    "targetCsId": "1708",
+    "delta": {
+      "opacity": {
+        "from": "0.5",
+        "to": "0.8"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1712",
+    "triggerFramerName": "x",
+    "triggerTag": "a",
+    "targetCsId": "1713",
+    "delta": {
+      "opacity": {
+        "from": "0.5",
+        "to": "0.8"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1722",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "1728",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -44.5625, 0)",
+        "to": "none"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1722",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "a",
+    "targetCsId": "1730",
+    "delta": {
+      "transform": {
+        "from": "none",
+        "to": "matrix(1, 0, 0, 1, -44.5625, 0)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "43",
+    "triggerFramerName": "Container",
+    "triggerTag": "div",
+    "targetCsId": "44",
+    "targetFramerName": "1",
+    "delta": {
+      "transform": {
+        "from": "none",
+        "to": "matrix(1, 0, 0, 1, -52.1797, 0)"
+      },
+      "opacity": {
+        "from": "1",
+        "to": "0"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "43",
+    "triggerFramerName": "Container",
+    "triggerTag": "div",
+    "targetCsId": "46",
+    "targetFramerName": "2",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -52.1797, 0)",
+        "to": "none"
+      },
+      "opacity": {
+        "from": "0",
+        "to": "1"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "44",
+    "triggerFramerName": "1",
+    "triggerTag": "div",
+    "targetCsId": "44",
+    "targetFramerName": "1",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, 0, -0.151726)",
+        "to": "matrix(1, 0, 0, 1, -52.1797, 0)"
+      },
+      "opacity": {
+        "from": "0.993579",
+        "to": "0"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "46",
+    "triggerFramerName": "2",
+    "triggerTag": "div",
+    "targetCsId": "46",
+    "targetFramerName": "2",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -52.1797, -0.142885)",
+        "to": "matrix(1, 0, 0, 1, -52.1797, 0)"
+      },
+      "opacity": {
+        "from": "0.00620489",
+        "to": "0"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "404",
+    "triggerFramerName": "Desktop",
+    "triggerTag": "div",
+    "targetCsId": "407",
+    "delta": {
+      "transform": {
+        "from": "none",
+        "to": "matrix(1.1, 0, 0, 1.1, 0, 0)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "405",
+    "triggerFramerName": "Showreel",
+    "triggerTag": "div",
+    "targetCsId": "405",
+    "targetFramerName": "Showreel",
+    "delta": {
+      "transform": {
+        "from": "matrix(1.00048, 0, 0, 1, 0.0155693, 0)",
+        "to": "none"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "407",
+    "triggerTag": "div",
+    "targetCsId": "407",
+    "delta": {
+      "transform": {
+        "from": "matrix(0.999276, 0, 0, 0.998806, 0, 0)",
+        "to": "matrix(1.1, 0, 0, 1.1, 0, 0)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "425",
+    "triggerFramerName": "Wrapper",
+    "triggerTag": "div",
+    "targetCsId": "462",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, 102.6, 972)",
+        "to": "matrix(1, 0, 0, 1, -347.7, 630)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "426",
+    "triggerFramerName": "Container Sticky",
+    "triggerTag": "div",
+    "targetCsId": "462",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -570, 360)",
+        "to": "matrix(1, 0, 0, 1, -342, -306)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "460",
+    "triggerTag": "div",
+    "targetCsId": "462",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -347.7, 630)",
+        "to": "matrix(1, 0, 0, 1, -199.5, -252)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "461",
+    "triggerTag": "div",
+    "targetCsId": "462",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -285, -360)",
+        "to": "matrix(1, 0, 0, 1, -855, 180)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "462",
+    "triggerTag": "div",
+    "targetCsId": "462",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -353.4, -252)",
+        "to": "matrix(1, 0, 0, 1, 125.4, -180)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "477",
+    "triggerFramerName": "Wrapper",
+    "triggerTag": "div",
+    "targetCsId": "518",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -399, 792)",
+        "to": "matrix(1, 0, 0, 1, -513, 288)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "478",
+    "triggerFramerName": "Container Sticky",
+    "triggerTag": "div",
+    "targetCsId": "518",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, 0, 180)",
+        "to": "matrix(1, 0, 0, 1, 342, 324)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "516",
+    "triggerTag": "div",
+    "targetCsId": "518",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, 256.5, 378)",
+        "to": "matrix(1, 0, 0, 1, 119.7, 1044)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "517",
+    "triggerTag": "div",
+    "targetCsId": "518",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, 171, 1260)",
+        "to": "matrix(1, 0, 0, 1, -28.5, -36)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "518",
+    "triggerTag": "div",
+    "targetCsId": "518",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -114, -144)",
+        "to": "matrix(1, 0, 0, 1, -513, -144)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "529",
+    "triggerFramerName": "Wrapper",
+    "triggerTag": "div",
+    "targetCsId": "566",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -228, -288)",
+        "to": "matrix(1, 0, 0, 1, -741, 72)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "530",
+    "triggerFramerName": "Container Sticky",
+    "triggerTag": "div",
+    "targetCsId": "566",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -604.2, -36)",
+        "to": "matrix(1, 0, 0, 1, 262.2, -540)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "564",
+    "triggerTag": "div",
+    "targetCsId": "566",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -353.4, -252)",
+        "to": "matrix(1, 0, 0, 1, 125.4, -180)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "565",
+    "triggerTag": "div",
+    "targetCsId": "566",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -79.8, 360)",
+        "to": "matrix(1, 0, 0, 1, -684, 522)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "566",
+    "triggerTag": "div",
+    "targetCsId": "566",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -684, 324)",
+        "to": "matrix(1, 0, 0, 1, 769.5, 54)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "602",
+    "triggerTag": "svg",
+    "targetCsId": "602",
+    "delta": {
+      "opacity": {
+        "from": "1",
+        "to": "0.5"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "626",
+    "triggerTag": "svg",
+    "targetCsId": "626",
+    "delta": {
+      "opacity": {
+        "from": "1",
+        "to": "0.5"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "722",
+    "triggerFramerName": "Text + image",
+    "triggerTag": "div",
+    "targetCsId": "739",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -109.2, -158.05)",
+        "to": "matrix(1, 0, 0, 1, -5.46, 79.025)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "730",
+    "triggerFramerName": "image",
+    "triggerTag": "div",
+    "targetCsId": "739",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, 191.1, -395.125)",
+        "to": "matrix(1, 0, 0, 1, -163.8, 371.418)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "731",
+    "triggerTag": "div",
+    "targetCsId": "739",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -245.7, 300.295)",
+        "to": "matrix(1, 0, 0, 1, -81.9, 94.83)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "732",
+    "triggerFramerName": "Variant 1",
+    "triggerTag": "div",
+    "targetCsId": "739",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, 163.8, 47.415)",
+        "to": "matrix(1, 0, 0, 1, 81.9, 189.66)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "737",
+    "triggerTag": "div",
+    "targetCsId": "739",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, 27.3, 0)",
+        "to": "matrix(1, 0, 0, 1, -273, 276.587)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "738",
+    "triggerTag": "div",
+    "targetCsId": "739",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -382.2, 181.758)",
+        "to": "matrix(1, 0, 0, 1, 327.6, 15.805)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "739",
+    "triggerTag": "div",
+    "targetCsId": "739",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, 327.6, 47.415)",
+        "to": "matrix(1, 0, 0, 1, 16.38, 300.295)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "760",
+    "triggerFramerName": "Text + image",
+    "triggerTag": "div",
+    "targetCsId": "777",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -289.38, -15.805)",
+        "to": "matrix(1, 0, 0, 1, 92.82, -158.05)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "768",
+    "triggerFramerName": "image",
+    "triggerTag": "div",
+    "targetCsId": "777",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, 10.92, -252.88)",
+        "to": "matrix(1, 0, 0, 1, -38.22, 158.05)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "769",
+    "triggerTag": "div",
+    "targetCsId": "777",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -136.5, 395.125)",
+        "to": "matrix(1, 0, 0, 1, -327.6, 142.245)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "770",
+    "triggerFramerName": "Variant 1",
+    "triggerTag": "div",
+    "targetCsId": "777",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -81.9, 94.83)",
+        "to": "matrix(1, 0, 0, 1, 245.7, 94.83)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "775",
+    "triggerTag": "div",
+    "targetCsId": "777",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, 158.34, -316.1)",
+        "to": "matrix(1, 0, 0, 1, -191.1, 347.71)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "776",
+    "triggerTag": "div",
+    "targetCsId": "777",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -273, 276.587)",
+        "to": "matrix(1, 0, 0, 1, 0, 79.025)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "777",
+    "triggerTag": "div",
+    "targetCsId": "777",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, 245.7, 31.61)",
+        "to": "matrix(1, 0, 0, 1, 40.95, 213.367)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "798",
+    "triggerFramerName": "Text + image",
+    "triggerTag": "div",
+    "targetCsId": "815",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -382.2, 55.3175)",
+        "to": "matrix(1, 0, 0, 1, 131.04, -347.71)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "806",
+    "triggerFramerName": "image",
+    "triggerTag": "div",
+    "targetCsId": "815",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -169.26, -110.635)",
+        "to": "matrix(1, 0, 0, 1, 60.06, -79.025)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "807",
+    "triggerTag": "div",
+    "targetCsId": "815",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -38.22, 158.05)",
+        "to": "matrix(1, 0, 0, 1, -354.9, 205.465)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "808",
+    "triggerFramerName": "Variant 1",
+    "triggerTag": "div",
+    "targetCsId": "815",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -327.6, 142.245)",
+        "to": "matrix(1, 0, 0, 1, 368.55, 23.7075)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "813",
+    "triggerTag": "div",
+    "targetCsId": "815",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, 70.98, -300.295)",
+        "to": "matrix(1, 0, 0, 1, -103.74, 316.1)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "814",
+    "triggerTag": "div",
+    "targetCsId": "815",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -191.1, 347.71)",
+        "to": "matrix(1, 0, 0, 1, -245.7, 126.44)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "815",
+    "triggerTag": "div",
+    "targetCsId": "815",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, 0, 79.025)",
+        "to": "matrix(1, 0, 0, 1, 163.8, 142.245)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "836",
+    "triggerFramerName": "Text + image",
+    "triggerTag": "div",
+    "targetCsId": "853",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -300.3, -15.805)",
+        "to": "matrix(1, 0, 0, 1, -49.14, -205.465)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "844",
+    "triggerFramerName": "image",
+    "triggerTag": "div",
+    "targetCsId": "853",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -409.5, 79.025)",
+        "to": "matrix(1, 0, 0, 1, 158.34, -316.1)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "845",
+    "triggerTag": "div",
+    "targetCsId": "853",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, 60.06, -79.025)",
+        "to": "matrix(1, 0, 0, 1, -245.7, 300.295)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "846",
+    "triggerFramerName": "Variant 1",
+    "triggerTag": "div",
+    "targetCsId": "853",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -327.6, 229.173)",
+        "to": "matrix(1, 0, 0, 1, 245.7, 31.61)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "851",
+    "triggerTag": "div",
+    "targetCsId": "853",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -109.2, -158.05)",
+        "to": "matrix(1, 0, 0, 1, -5.46, 79.025)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "852",
+    "triggerTag": "div",
+    "targetCsId": "853",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -103.74, 316.1)",
+        "to": "matrix(1, 0, 0, 1, -382.2, 181.758)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "853",
+    "triggerTag": "div",
+    "targetCsId": "853",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -245.7, 126.44)",
+        "to": "matrix(1, 0, 0, 1, 286.65, 71.1225)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1025",
+    "triggerFramerName": "Container",
+    "triggerTag": "div",
+    "targetCsId": "1026",
+    "targetFramerName": "1",
+    "delta": {
+      "transform": {
+        "from": "none",
+        "to": "matrix(1, 0, 0, 1, -48.6562, 0)"
+      },
+      "opacity": {
+        "from": "1",
+        "to": "0"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1025",
+    "triggerFramerName": "Container",
+    "triggerTag": "div",
+    "targetCsId": "1028",
+    "targetFramerName": "2",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -48.6562, 0)",
+        "to": "none"
+      },
+      "opacity": {
+        "from": "0",
+        "to": "1"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1026",
+    "triggerFramerName": "1",
+    "triggerTag": "div",
+    "targetCsId": "1026",
+    "targetFramerName": "1",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, 0, -0.167024)",
+        "to": "matrix(1, 0, 0, 1, -48.6562, 0)"
+      },
+      "opacity": {
+        "from": "0.993358",
+        "to": "0"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1028",
+    "triggerFramerName": "2",
+    "triggerTag": "div",
+    "targetCsId": "1028",
+    "targetFramerName": "2",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -48.6562, -0.142885)",
+        "to": "matrix(1, 0, 0, 1, -48.6562, 0)"
+      },
+      "opacity": {
+        "from": "0.00595777",
+        "to": "0"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1245",
+    "triggerFramerName": "Container",
+    "triggerTag": "div",
+    "targetCsId": "1246",
+    "targetFramerName": "1",
+    "delta": {
+      "transform": {
+        "from": "none",
+        "to": "matrix(1, 0, 0, 1, -38.4062, 0)"
+      },
+      "opacity": {
+        "from": "1",
+        "to": "0"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1245",
+    "triggerFramerName": "Container",
+    "triggerTag": "div",
+    "targetCsId": "1247",
+    "delta": {
+      "color": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(11, 11, 11)"
+      },
+      "borderColor": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(11, 11, 11)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1245",
+    "triggerFramerName": "Container",
+    "triggerTag": "div",
+    "targetCsId": "1248",
+    "targetFramerName": "2",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, -38.4062, 0)",
+        "to": "none"
+      },
+      "opacity": {
+        "from": "0",
+        "to": "1"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1245",
+    "triggerFramerName": "Container",
+    "triggerTag": "div",
+    "targetCsId": "1249",
+    "delta": {
+      "color": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(11, 11, 11)"
+      },
+      "borderColor": {
+        "from": "rgb(255, 255, 255)",
+        "to": "rgb(11, 11, 11)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1246",
+    "triggerFramerName": "1",
+    "triggerTag": "div",
+    "targetCsId": "1246",
+    "targetFramerName": "1",
+    "delta": {
+      "transform": {
+        "from": "matrix(1, 0, 0, 1, 0, -0.151726)",
+        "to": "matrix(1, 0, 0, 1, -38.4062, 0)"
+      },
+      "opacity": {
+        "from": "0.993972",
+        "to": "0"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1246",
+    "triggerFramerName": "1",
+    "triggerTag": "div",
+    "targetCsId": "1247",
+    "delta": {
+      "color": {
+        "from": "rgb(254, 254, 254)",
+        "to": "rgb(11, 11, 11)"
+      },
+      "borderColor": {
+        "from": "rgb(254, 254, 254)",
+        "to": "rgb(11, 11, 11)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  },
+  {
+    "triggerCsId": "1247",
+    "triggerTag": "p",
+    "targetCsId": "1247",
+    "delta": {
+      "color": {
+        "from": "rgb(254, 254, 254)",
+        "to": "rgb(11, 11, 11)"
+      },
+      "borderColor": {
+        "from": "rgb(254, 254, 254)",
+        "to": "rgb(11, 11, 11)"
+      }
+    },
+    "duration": "0s",
+    "easing": "ease"
+  }
+]

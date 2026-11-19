@@ -1,0 +1,42 @@
+[
+  {
+    "name": "--token-8bc48ec1-e739-449f-9808-c21f0169d1a2",
+    "value": "#fff",
+    "source": "body"
+  },
+  {
+    "name": "--token-65f7d412-ea73-45f7-91cd-0a64a2e777ba",
+    "value": "#ff4500",
+    "source": "body"
+  },
+  {
+    "name": "--token-078c9a12-d3d0-47c1-be44-0efff52af868",
+    "value": "#0b0b0b",
+    "source": "body"
+  },
+  {
+    "name": "--token-d26d0a6a-bee9-45a2-90b0-4331e05dae91",
+    "value": "#0b0b0b99",
+    "source": "body"
+  },
+  {
+    "name": "--token-a6a442ab-37fd-449e-b679-15d23843839a",
+    "value": "#fff9",
+    "source": "body"
+  },
+  {
+    "name": "--token-b159bd95-c4c3-4895-ac13-bb2691900e06",
+    "value": "#e9e9e9",
+    "source": "body"
+  },
+  {
+    "name": "--framer-will-change-override",
+    "value": "none",
+    "source": "body"
+  },
+  {
+    "name": "--framer-will-change-filter-override",
+    "value": "none",
+    "source": "body"
+  }
+]

@@ -1,0 +1,178 @@
+{
+  "fontFamilies": [
+    {
+      "family": "sans-serif",
+      "usage": 1391
+    },
+    {
+      "family": "Geist, \"Geist Placeholder\", sans-serif",
+      "usage": 551
+    },
+    {
+      "family": "Times",
+      "usage": 31
+    },
+    {
+      "family": "Geist",
+      "usage": 8
+    }
+  ],
+  "sizes": [
+    {
+      "value": "12px",
+      "usage": 1660
+    },
+    {
+      "value": "14px",
+      "usage": 55
+    },
+    {
+      "value": "92px",
+      "usage": 54
+    },
+    {
+      "value": "16px",
+      "usage": 51
+    },
+    {
+      "value": "11px",
+      "usage": 46
+    },
+    {
+      "value": "32px",
+      "usage": 33
+    },
+    {
+      "value": "20px",
+      "usage": 31
+    },
+    {
+      "value": "13px",
+      "usage": 17
+    },
+    {
+      "value": "58px",
+      "usage": 9
+    },
+    {
+      "value": "64px",
+      "usage": 8
+    },
+    {
+      "value": "18px",
+      "usage": 5
+    },
+    {
+      "value": "78px",
+      "usage": 3
+    },
+    {
+      "value": "100px",
+      "usage": 3
+    },
+    {
+      "value": "15px",
+      "usage": 2
+    },
+    {
+      "value": "26px",
+      "usage": 2
+    },
+    {
+      "value": "140.498px",
+      "usage": 1
+    },
+    {
+      "value": "34px",
+      "usage": 1
+    }
+  ],
+  "weights": [
+    {
+      "value": "400",
+      "usage": 1427
+    },
+    {
+      "value": "500",
+      "usage": 460
+    },
+    {
+      "value": "600",
+      "usage": 92
+    },
+    {
+      "value": "700",
+      "usage": 2
+    }
+  ],
+  "lineHeights": [
+    {
+      "value": "normal",
+      "usage": 1442
+    },
+    {
+      "value": "14.4px",
+      "usage": 259
+    },
+    {
+      "value": "75.44px",
+      "usage": 54
+    },
+    {
+      "value": "18.2px",
+      "usage": 47
+    },
+    {
+      "value": "13.2px",
+      "usage": 46
+    },
+    {
+      "value": "35.2px",
+      "usage": 33
+    },
+    {
+      "value": "24px",
+      "usage": 31
+    },
+    {
+      "value": "15.6px",
+      "usage": 27
+    },
+    {
+      "value": "19.2px",
+      "usage": 16
+    },
+    {
+      "value": "16.8px",
+      "usage": 8
+    },
+    {
+      "value": "14.76px",
+      "usage": 5
+    },
+    {
+      "value": "17.6px",
+      "usage": 4
+    },
+    {
+      "value": "82px",
+      "usage": 3
+    },
+    {
+      "value": "18px",
+      "usage": 2
+    },
+    {
+      "value": "28.6px",
+      "usage": 2
+    },
+    {
+      "value": "115.208px",
+      "usage": 1
+    },
+    {
+      "value": "30.6px",
+      "usage": 1
+    }
+  ]
+}
